@@ -157,7 +157,21 @@ def drop_unnecessary_rows(raw_df: pd.DataFrame, drop_non_model_rows: bool) -> Tu
     before = len(df)
 
     # Remove accidental repeated header rows inside exported sheets.
-    row_text = df.astype(str).agg("|".join, axis=1).str.upper()
+    # NOTE: pandas/pyarrow/object mixed columns can still pass non-string scalars
+    # into ``"|".join`` even after ``astype(str)`` on some Streamlit Cloud builds.
+    # Use an explicit per-cell conversion so floats/NaNs can never break the join.
+    def _safe_cell_to_str(x: Any) -> str:
+        try:
+            if pd.isna(x):
+                return ""
+        except Exception:
+            pass
+        return str(x)
+
+    row_text = df.apply(
+        lambda row: "|".join(_safe_cell_to_str(v) for v in row.to_numpy()),
+        axis=1,
+    ).str.upper()
     repeated_header_mask = row_text.str.contains("FINAL ALLOC", na=False) & row_text.str.contains("ALLOC", na=False)
     if repeated_header_mask.any():
         df = df.loc[~repeated_header_mask].copy()
