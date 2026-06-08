@@ -377,6 +377,7 @@ def show_model_overview(bundle: dict):
             data=bytes_from_file(REPORT_ZIP),
             file_name="model_report_package.zip",
             mime="application/zip",
+            key="model_overview_report_download",
         )
 
 
@@ -511,6 +512,7 @@ try:
                 file_name=output_name,
                 mime="text/csv",
                 type="primary",
+                key="output_filled_csv_download",
             )
         with d2:
             st.download_button(
@@ -518,6 +520,7 @@ try:
                 data=to_csv_bytes(audit_table),
                 file_name=audit_name,
                 mime="text/csv",
+                key="output_audit_csv_download",
             )
         with d3:
             if os.path.exists(REPORT_ZIP):
@@ -526,6 +529,7 @@ try:
                     data=bytes_from_file(REPORT_ZIP),
                     file_name="model_report_package.zip",
                     mime="application/zip",
+                    key="output_report_package_download",
                 )
 
         st.subheader("Preview: Filled CSV")
