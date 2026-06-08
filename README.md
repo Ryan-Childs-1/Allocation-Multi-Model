@@ -55,3 +55,15 @@ The model only uses these columns for prediction:
 - Flag
 
 `Final Alloc.` is filled in the exported CSV but is not used as an input feature.
+
+## Updated Model Version
+
+This package has been updated with the larger v3 Allocation Split Expert model artifacts trained with:
+
+- Classifier layers: 512 → 256 → 128
+- Regressor layers: 768 → 384 → 192 → 96
+- Allocate threshold: 0.40
+- Review threshold: 0.62
+- Review ranking weights: 40% demand pressure, 60% model probability
+
+The app still uses NumPy-only model inference and the same approved feature columns.
