@@ -1,0 +1,204 @@
+{
+  "created_at": "2026-06-07 18:10:53",
+  "allowed_features": [
+    "Class Name",
+    "Line Name",
+    "Site",
+    "MIL",
+    "FLM",
+    "Cost",
+    "L30",
+    "D30",
+    "D60",
+    "LW",
+    "TTM",
+    "Supply",
+    "Dc Avail",
+    "Rank",
+    "Proj. Demand",
+    "Alloc. Rec.",
+    "Flag"
+  ],
+  "target_col": "Final Alloc.",
+  "model_architecture": {
+    "allocate_classifier_hidden": [
+      512,
+      256,
+      128
+    ],
+    "allocate_regressor_hidden": [
+      768,
+      384,
+      192,
+      96
+    ],
+    "review_classifier_hidden": [
+      512,
+      256,
+      128
+    ],
+    "review_regressor_hidden": [
+      768,
+      384,
+      192,
+      96
+    ],
+    "allocate_threshold": 0.4,
+    "review_threshold": 0.62,
+    "review_rank_weight_demand": 0.4,
+    "review_rank_weight_probability": 0.6
+  },
+  "allocate_training": {
+    "classifier": {
+      "epochs_run": 74,
+      "best_val_loss": 0.3758198320865631,
+      "best_val_acc": 0.8652482269503546,
+      "best_epoch_by_loss": 42
+    },
+    "regressor": {
+      "epochs_run": 33,
+      "best_val_mae_packs": 0.22961561381816864,
+      "best_epoch_by_mae": 18
+    }
+  },
+  "review_training": {
+    "classifier": {
+      "epochs_run": 62,
+      "best_val_loss": 0.28893619775772095,
+      "best_val_acc": 0.8940845070422535,
+      "best_epoch_by_loss": 30
+    },
+    "regressor": {
+      "epochs_run": 97,
+      "best_val_mae_packs": 0.3142341077327728,
+      "best_epoch_by_mae": 82
+    }
+  },
+  "top_feature_groups_overall": [
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "Line Name category signal",
+      "importance_pct": 33.72657382488251
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "Site category signal",
+      "importance_pct": 25.386420730501413
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "Class Name category signal",
+      "importance_pct": 24.97191648557782
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "Dc Avail Bucket category signal",
+      "importance_pct": 2.108797188848257
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "Rank category signal",
+      "importance_pct": 2.0991349555552006
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "Flag category signal",
+      "importance_pct": 2.0802912786602974
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "dc_flms",
+      "importance_pct": 0.27417857199907303
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "supply_to_proj",
+      "importance_pct": 0.27387944608926773
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "d60_gap",
+      "importance_pct": 0.2731109708547592
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "dc_flms_capped",
+      "importance_pct": 0.27106714993715286
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "zero_supply",
+      "importance_pct": 0.2684459015727043
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "FLM",
+      "importance_pct": 0.2681117281317711
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "supply_to_d60",
+      "importance_pct": 0.26676980406045914
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "supply_to_d30",
+      "importance_pct": 0.2664085924625397
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "MIL",
+      "importance_pct": 0.2642511688172817
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "rec_flms",
+      "importance_pct": 0.2635873481631279
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "Supply",
+      "importance_pct": 0.26337698101997375
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "D30",
+      "importance_pct": 0.26098982244729996
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "rank_score",
+      "importance_pct": 0.2608325034379959
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "l30_to_d30",
+      "importance_pct": 0.2603785768151283
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "has_dc_avail",
+      "importance_pct": 0.26006295531988144
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "Dc Avail",
+      "importance_pct": 0.25968635454773903
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "supply_cost_value",
+      "importance_pct": 0.2596575766801834
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "avg_demand",
+      "importance_pct": 0.2592928186058998
+    },
+    {
+      "model_component": "OVERALL_AVERAGE",
+      "feature_group": "Alloc. Rec.",
+      "importance_pct": 0.2591211795806885
+    }
+  ]
+}

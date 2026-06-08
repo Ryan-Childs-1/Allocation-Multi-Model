@@ -1,0 +1,1525 @@
+model_component,feature,importance_pct,feature_group
+allocate_flm_regressor,hash__Line Name__62,0.28449347615242004,Line Name category signal
+allocate_flm_regressor,hash__Line Name__120,0.27835938334465027,Line Name category signal
+allocate_flm_regressor,MIL,0.2782667875289917,MIL
+allocate_flm_regressor,hash__Line Name__27,0.2782326936721802,Line Name category signal
+allocate_flm_regressor,hash__Site__53,0.27724090218544006,Site category signal
+allocate_flm_regressor,hash__Line Name__54,0.27675312757492065,Line Name category signal
+allocate_flm_regressor,hash__Line Name__100,0.2766737937927246,Line Name category signal
+allocate_flm_regressor,hash__Flag__4,0.27654343843460083,Flag category signal
+allocate_flm_regressor,hash__Class Name__32,0.2763384282588959,Class Name category signal
+allocate_flm_regressor,hash__Class Name__39,0.2758867144584656,Class Name category signal
+allocate_flm_regressor,hash__Rank__2,0.27584895491600037,Rank category signal
+allocate_flm_regressor,hash__Line Name__117,0.27557000517845154,Line Name category signal
+allocate_flm_regressor,zero_supply,0.27490487694740295,zero_supply
+allocate_flm_regressor,hash__Line Name__25,0.2746644616127014,Line Name category signal
+allocate_flm_regressor,hash__Class Name__44,0.27465394139289856,Class Name category signal
+allocate_flm_regressor,hash__Line Name__15,0.2745431065559387,Line Name category signal
+allocate_flm_regressor,hash__Line Name__16,0.27440375089645386,Line Name category signal
+allocate_flm_regressor,hash__Site__72,0.27428218722343445,Site category signal
+allocate_flm_regressor,hash__Line Name__49,0.2742595970630646,Line Name category signal
+allocate_flm_regressor,hash__Class Name__15,0.2738935351371765,Class Name category signal
+allocate_flm_regressor,hash__Class Name__14,0.27376407384872437,Class Name category signal
+allocate_flm_regressor,hash__Line Name__58,0.27359363436698914,Line Name category signal
+allocate_flm_regressor,hash__Line Name__63,0.2732419967651367,Line Name category signal
+allocate_flm_regressor,hash__Line Name__88,0.2731931507587433,Line Name category signal
+allocate_flm_regressor,hash__Site__76,0.27296218276023865,Site category signal
+allocate_flm_regressor,hash__Flag__3,0.2729377746582031,Flag category signal
+allocate_flm_regressor,hash__Line Name__37,0.27279624342918396,Line Name category signal
+allocate_flm_regressor,hash__Site__80,0.27274611592292786,Site category signal
+allocate_flm_regressor,hash__Class Name__43,0.27260902523994446,Class Name category signal
+allocate_flm_regressor,hash__Line Name__78,0.2725139856338501,Line Name category signal
+allocate_flm_regressor,hash__Site__69,0.2723798453807831,Site category signal
+allocate_flm_regressor,hash__Class Name__22,0.27222806215286255,Class Name category signal
+allocate_flm_regressor,hash__Site__86,0.27222755551338196,Site category signal
+allocate_flm_regressor,hash__Site__41,0.27199479937553406,Site category signal
+allocate_flm_regressor,hash__Site__63,0.2719072997570038,Site category signal
+allocate_flm_regressor,dc_flms_capped,0.27170616388320923,dc_flms_capped
+allocate_flm_regressor,hash__Class Name__40,0.27163106203079224,Class Name category signal
+allocate_flm_regressor,hash__Site__35,0.2715799808502197,Site category signal
+allocate_flm_regressor,hash__Line Name__65,0.2715704143047333,Line Name category signal
+allocate_flm_regressor,hash__Class Name__88,0.27151429653167725,Class Name category signal
+allocate_flm_regressor,hash__Site__7,0.27150091528892517,Site category signal
+allocate_flm_regressor,hash__Class Name__72,0.27147966623306274,Class Name category signal
+allocate_flm_regressor,hash__Class Name__31,0.27142471075057983,Class Name category signal
+allocate_flm_regressor,hash__Dc Avail Bucket__6,0.27137893438339233,Dc Avail Bucket category signal
+allocate_flm_regressor,hash__Line Name__89,0.27136048674583435,Line Name category signal
+allocate_flm_regressor,hash__Flag__2,0.27134835720062256,Flag category signal
+allocate_flm_regressor,hash__Line Name__99,0.271283358335495,Line Name category signal
+allocate_flm_regressor,hash__Class Name__85,0.27124664187431335,Class Name category signal
+allocate_flm_regressor,hash__Line Name__113,0.27116280794143677,Line Name category signal
+allocate_flm_regressor,supply_to_d60,0.2711177468299866,supply_to_d60
+allocate_flm_regressor,hash__Line Name__119,0.2710627317428589,Line Name category signal
+allocate_flm_regressor,hash__Line Name__66,0.2709759771823883,Line Name category signal
+allocate_flm_regressor,hash__Class Name__68,0.2709119915962219,Class Name category signal
+allocate_flm_regressor,hash__Dc Avail Bucket__3,0.2708794176578522,Dc Avail Bucket category signal
+allocate_flm_regressor,hash__Site__2,0.2708316445350647,Site category signal
+allocate_flm_regressor,hash__Line Name__81,0.2704585790634155,Line Name category signal
+allocate_flm_regressor,hash__Line Name__13,0.2704383432865143,Line Name category signal
+allocate_flm_regressor,hash__Line Name__7,0.2704331874847412,Line Name category signal
+allocate_flm_regressor,hash__Line Name__85,0.2700873911380768,Line Name category signal
+allocate_flm_regressor,hash__Site__20,0.27002260088920593,Site category signal
+allocate_flm_regressor,hash__Class Name__5,0.2700008153915405,Class Name category signal
+allocate_flm_regressor,hash__Line Name__124,0.26991716027259827,Line Name category signal
+allocate_flm_regressor,hash__Site__9,0.2698986530303955,Site category signal
+allocate_flm_regressor,hash__Site__23,0.2698565721511841,Site category signal
+allocate_flm_regressor,hash__Line Name__1,0.26977840065956116,Line Name category signal
+allocate_flm_regressor,hash__Site__27,0.26977109909057617,Site category signal
+allocate_flm_regressor,hash__Site__68,0.2697301208972931,Site category signal
+allocate_flm_regressor,hash__Site__16,0.2696101665496826,Site category signal
+allocate_flm_regressor,hash__Class Name__86,0.2695050835609436,Class Name category signal
+allocate_flm_regressor,hash__Class Name__8,0.26946720480918884,Class Name category signal
+allocate_flm_regressor,hash__Class Name__0,0.2694106996059418,Class Name category signal
+allocate_flm_regressor,hash__Line Name__73,0.26935121417045593,Line Name category signal
+allocate_flm_regressor,hash__Class Name__56,0.2693255841732025,Class Name category signal
+allocate_flm_regressor,hash__Class Name__10,0.26919305324554443,Class Name category signal
+allocate_flm_regressor,hash__Class Name__73,0.26905351877212524,Class Name category signal
+allocate_flm_regressor,hash__Rank__6,0.26902955770492554,Rank category signal
+allocate_flm_regressor,hash__Dc Avail Bucket__2,0.26892465353012085,Dc Avail Bucket category signal
+allocate_flm_regressor,hash__Class Name__52,0.2688091993331909,Class Name category signal
+allocate_flm_regressor,hash__Site__26,0.2687752842903137,Site category signal
+allocate_flm_regressor,hash__Site__37,0.2687423527240753,Site category signal
+allocate_flm_regressor,hash__Site__56,0.26871538162231445,Site category signal
+allocate_flm_regressor,rec_flms,0.26867958903312683,rec_flms
+allocate_flm_regressor,hash__Line Name__86,0.2685735523700714,Line Name category signal
+allocate_flm_regressor,hash__Line Name__46,0.268515020608902,Line Name category signal
+allocate_flm_regressor,hash__Line Name__92,0.2685141861438751,Line Name category signal
+allocate_flm_regressor,hash__Class Name__55,0.26840341091156006,Class Name category signal
+allocate_flm_regressor,hash__Line Name__98,0.2682938575744629,Line Name category signal
+allocate_flm_regressor,hash__Class Name__61,0.26820260286331177,Class Name category signal
+allocate_flm_regressor,hash__Line Name__104,0.26816287636756897,Line Name category signal
+allocate_flm_regressor,hash__Class Name__50,0.2680026888847351,Class Name category signal
+allocate_flm_regressor,hash__Line Name__64,0.267861008644104,Line Name category signal
+allocate_flm_regressor,hash__Line Name__69,0.2678350508213043,Line Name category signal
+allocate_flm_regressor,FLM,0.26771315932273865,FLM
+allocate_flm_regressor,hash__Line Name__12,0.26765176653862,Line Name category signal
+allocate_flm_regressor,hash__Class Name__4,0.2675837278366089,Class Name category signal
+allocate_flm_regressor,hash__Site__1,0.2675600051879883,Site category signal
+allocate_flm_regressor,hash__Site__65,0.26741161942481995,Site category signal
+allocate_flm_regressor,has_dc_avail,0.2671329975128174,has_dc_avail
+allocate_flm_regressor,hash__Site__84,0.2671133875846863,Site category signal
+allocate_flm_regressor,hash__Line Name__19,0.2670866549015045,Line Name category signal
+allocate_flm_regressor,hash__Line Name__43,0.2669726610183716,Line Name category signal
+allocate_flm_regressor,hash__Class Name__47,0.26681002974510193,Class Name category signal
+allocate_flm_regressor,hash__Line Name__11,0.2666992247104645,Line Name category signal
+allocate_flm_regressor,hash__Site__48,0.26665228605270386,Site category signal
+allocate_flm_regressor,hash__Line Name__71,0.2666037678718567,Line Name category signal
+allocate_flm_regressor,hash__Class Name__66,0.266560435295105,Class Name category signal
+allocate_flm_regressor,hash__Class Name__64,0.2665082514286041,Class Name category signal
+allocate_flm_regressor,hash__Class Name__95,0.26648029685020447,Class Name category signal
+allocate_flm_regressor,hash__Class Name__27,0.26644614338874817,Class Name category signal
+allocate_flm_regressor,hash__Class Name__42,0.26643234491348267,Class Name category signal
+allocate_flm_regressor,hash__Site__3,0.266387939453125,Site category signal
+allocate_flm_regressor,hash__Class Name__11,0.26632264256477356,Class Name category signal
+allocate_flm_regressor,rank_score,0.2663210332393646,rank_score
+allocate_flm_regressor,hash__Line Name__75,0.2663029134273529,Line Name category signal
+allocate_flm_regressor,hash__Class Name__51,0.2662760317325592,Class Name category signal
+allocate_flm_regressor,hash__Line Name__33,0.2662705183029175,Line Name category signal
+allocate_flm_regressor,hash__Line Name__70,0.266259104013443,Line Name category signal
+allocate_flm_regressor,hash__Site__87,0.2661924660205841,Site category signal
+allocate_flm_regressor,rec_minus_pressure,0.2661856710910797,rec_minus_pressure
+allocate_flm_regressor,hash__Class Name__20,0.26611804962158203,Class Name category signal
+allocate_flm_regressor,hash__Line Name__52,0.2660054564476013,Line Name category signal
+allocate_flm_regressor,hash__Line Name__35,0.26595407724380493,Line Name category signal
+allocate_flm_regressor,hash__Class Name__89,0.26594194769859314,Class Name category signal
+allocate_flm_regressor,hash__Class Name__78,0.26589691638946533,Class Name category signal
+allocate_flm_regressor,hash__Class Name__81,0.26586106419563293,Class Name category signal
+allocate_flm_regressor,hash__Line Name__94,0.2658441364765167,Line Name category signal
+allocate_flm_regressor,hash__Site__14,0.2657739818096161,Site category signal
+allocate_flm_regressor,hash__Dc Avail Bucket__1,0.265717476606369,Dc Avail Bucket category signal
+allocate_flm_regressor,hash__Line Name__112,0.26563823223114014,Line Name category signal
+allocate_flm_regressor,hash__Class Name__38,0.2655896246433258,Class Name category signal
+allocate_flm_regressor,hash__Site__75,0.2655376195907593,Site category signal
+allocate_flm_regressor,hash__Site__10,0.2653976380825043,Site category signal
+allocate_flm_regressor,hash__Site__11,0.26531851291656494,Site category signal
+allocate_flm_regressor,hash__Class Name__94,0.2652612626552582,Class Name category signal
+allocate_flm_regressor,hash__Line Name__0,0.2651253938674927,Line Name category signal
+allocate_flm_regressor,hash__Site__24,0.2649487555027008,Site category signal
+allocate_flm_regressor,hash__Site__55,0.2647736370563507,Site category signal
+allocate_flm_regressor,hash__Dc Avail Bucket__4,0.2647239863872528,Dc Avail Bucket category signal
+allocate_flm_regressor,hash__Line Name__76,0.26471173763275146,Line Name category signal
+allocate_flm_regressor,hash__Site__90,0.2647095322608948,Site category signal
+allocate_flm_regressor,hash__Site__21,0.26470425724983215,Site category signal
+allocate_flm_regressor,hash__Class Name__29,0.26462411880493164,Class Name category signal
+allocate_flm_regressor,hash__Site__40,0.264600545167923,Site category signal
+allocate_flm_regressor,hash__Site__52,0.26455336809158325,Site category signal
+allocate_flm_regressor,hash__Class Name__3,0.26453080773353577,Class Name category signal
+allocate_flm_regressor,hash__Line Name__24,0.2644840478897095,Line Name category signal
+allocate_flm_regressor,hash__Site__79,0.26442864537239075,Site category signal
+allocate_flm_regressor,hash__Line Name__61,0.26436659693717957,Line Name category signal
+allocate_flm_regressor,hash__Site__36,0.2643558979034424,Site category signal
+allocate_flm_regressor,hash__Line Name__123,0.26424139738082886,Line Name category signal
+allocate_flm_regressor,hash__Line Name__18,0.26418113708496094,Line Name category signal
+allocate_flm_regressor,hash__Line Name__40,0.2641586661338806,Line Name category signal
+allocate_flm_regressor,hash__Line Name__26,0.26412108540534973,Line Name category signal
+allocate_flm_regressor,hash__Class Name__28,0.26407590508461,Class Name category signal
+allocate_flm_regressor,hash__Class Name__91,0.26403185725212097,Class Name category signal
+allocate_flm_regressor,hash__Class Name__46,0.26399660110473633,Class Name category signal
+allocate_flm_regressor,hash__Dc Avail Bucket__5,0.2638879120349884,Dc Avail Bucket category signal
+allocate_flm_regressor,hash__Line Name__59,0.2638542950153351,Line Name category signal
+allocate_flm_regressor,hash__Site__60,0.26383233070373535,Site category signal
+allocate_flm_regressor,hash__Site__25,0.26382118463516235,Site category signal
+allocate_flm_regressor,hash__Class Name__90,0.26381537318229675,Class Name category signal
+allocate_flm_regressor,hash__Class Name__36,0.2637538015842438,Class Name category signal
+allocate_flm_regressor,hash__Line Name__23,0.26365673542022705,Line Name category signal
+allocate_flm_regressor,LW,0.26356881856918335,LW
+allocate_flm_regressor,hash__Class Name__24,0.26349425315856934,Class Name category signal
+allocate_flm_regressor,hash__Line Name__47,0.2633482813835144,Line Name category signal
+allocate_flm_regressor,dc_flms,0.2633058428764343,dc_flms
+allocate_flm_regressor,D30,0.26326799392700195,D30
+allocate_flm_regressor,hash__Site__19,0.2631273865699768,Site category signal
+allocate_flm_regressor,hash__Site__18,0.2630370259284973,Site category signal
+allocate_flm_regressor,hash__Class Name__6,0.2629825472831726,Class Name category signal
+allocate_flm_regressor,hash__Line Name__122,0.2628263533115387,Line Name category signal
+allocate_flm_regressor,Supply,0.26278841495513916,Supply
+allocate_flm_regressor,hash__Line Name__114,0.2626963257789612,Line Name category signal
+allocate_flm_regressor,hash__Line Name__14,0.26261579990386963,Line Name category signal
+allocate_flm_regressor,hash__Class Name__63,0.2624606788158417,Class Name category signal
+allocate_flm_regressor,Proj. Demand,0.2623984217643738,Proj. Demand
+allocate_flm_regressor,hash__Line Name__84,0.2623897194862366,Line Name category signal
+allocate_flm_regressor,hash__Class Name__76,0.26237401366233826,Class Name category signal
+allocate_flm_regressor,hash__Site__58,0.2623717188835144,Site category signal
+allocate_flm_regressor,hash__Line Name__107,0.2623685896396637,Line Name category signal
+allocate_flm_regressor,hash__Line Name__116,0.26231178641319275,Line Name category signal
+allocate_flm_regressor,hash__Class Name__92,0.2622806131839752,Class Name category signal
+allocate_flm_regressor,hash__Class Name__2,0.26221051812171936,Class Name category signal
+allocate_flm_regressor,hash__Line Name__110,0.2621924877166748,Line Name category signal
+allocate_flm_regressor,lw_month_to_l30,0.2619558870792389,lw_month_to_l30
+allocate_flm_regressor,hash__Flag__1,0.2619051933288574,Flag category signal
+allocate_flm_regressor,hash__Site__42,0.2619021236896515,Site category signal
+allocate_flm_regressor,d60_gap,0.261820524930954,d60_gap
+allocate_flm_regressor,hash__Line Name__55,0.2618166506290436,Line Name category signal
+allocate_flm_regressor,hash__Line Name__90,0.2617828845977783,Line Name category signal
+allocate_flm_regressor,hash__Line Name__72,0.26175373792648315,Line Name category signal
+allocate_flm_regressor,hash__Site__51,0.26174065470695496,Site category signal
+allocate_flm_regressor,l30_to_d30,0.26172858476638794,l30_to_d30
+allocate_flm_regressor,hash__Class Name__16,0.261704683303833,Class Name category signal
+allocate_flm_regressor,hash__Class Name__80,0.26168933510780334,Class Name category signal
+allocate_flm_regressor,hash__Class Name__84,0.26167264580726624,Class Name category signal
+allocate_flm_regressor,hash__Class Name__26,0.2616320848464966,Class Name category signal
+allocate_flm_regressor,hash__Site__62,0.26159942150115967,Site category signal
+allocate_flm_regressor,hash__Site__95,0.2614753842353821,Site category signal
+allocate_flm_regressor,hash__Site__61,0.2614704370498657,Site category signal
+allocate_flm_regressor,hash__Class Name__25,0.2614491283893585,Class Name category signal
+allocate_flm_regressor,hash__Class Name__23,0.26143792271614075,Class Name category signal
+allocate_flm_regressor,hash__Line Name__30,0.26142647862434387,Line Name category signal
+allocate_flm_regressor,hash__Rank__3,0.26140695810317993,Rank category signal
+allocate_flm_regressor,hash__Site__39,0.26134631037712097,Site category signal
+allocate_flm_regressor,hash__Rank__0,0.2613294720649719,Rank category signal
+allocate_flm_regressor,hash__Class Name__77,0.261289119720459,Class Name category signal
+allocate_flm_regressor,hash__Site__81,0.26121973991394043,Site category signal
+allocate_flm_regressor,hash__Line Name__9,0.26118898391723633,Line Name category signal
+allocate_flm_regressor,hash__Site__15,0.2611410617828369,Site category signal
+allocate_flm_regressor,hash__Flag__5,0.2611118257045746,Flag category signal
+allocate_flm_regressor,hash__Rank__7,0.2610994279384613,Rank category signal
+allocate_flm_regressor,hash__Line Name__82,0.2610550820827484,Line Name category signal
+allocate_flm_regressor,hash__Class Name__93,0.26104670763015747,Class Name category signal
+allocate_flm_regressor,demand_pressure,0.26099932193756104,demand_pressure
+allocate_flm_regressor,hash__Line Name__8,0.26097503304481506,Line Name category signal
+allocate_flm_regressor,hash__Class Name__57,0.2609677016735077,Class Name category signal
+allocate_flm_regressor,hash__Line Name__111,0.26087433099746704,Line Name category signal
+allocate_flm_regressor,d30_gap,0.26081568002700806,d30_gap
+allocate_flm_regressor,hash__Dc Avail Bucket__0,0.2608073353767395,Dc Avail Bucket category signal
+allocate_flm_regressor,hash__Site__64,0.2607968747615814,Site category signal
+allocate_flm_regressor,hash__Site__71,0.26070278882980347,Site category signal
+allocate_flm_regressor,hash__Site__74,0.26070159673690796,Site category signal
+allocate_flm_regressor,hash__Flag__6,0.2606789767742157,Flag category signal
+allocate_flm_regressor,hash__Line Name__121,0.26066744327545166,Line Name category signal
+allocate_flm_regressor,hash__Line Name__97,0.2606664299964905,Line Name category signal
+allocate_flm_regressor,hash__Line Name__87,0.26062026619911194,Line Name category signal
+allocate_flm_regressor,hash__Line Name__126,0.26052364706993103,Line Name category signal
+allocate_flm_regressor,hash__Line Name__36,0.2605225145816803,Line Name category signal
+allocate_flm_regressor,has_alloc_rec,0.2605099081993103,has_alloc_rec
+allocate_flm_regressor,hash__Class Name__19,0.2605043053627014,Class Name category signal
+allocate_flm_regressor,hash__Class Name__7,0.26045703887939453,Class Name category signal
+allocate_flm_regressor,hash__Class Name__54,0.2604430913925171,Class Name category signal
+allocate_flm_regressor,hash__Line Name__21,0.26043328642845154,Line Name category signal
+allocate_flm_regressor,hash__Site__83,0.26042816042900085,Site category signal
+allocate_flm_regressor,hash__Site__8,0.260392427444458,Site category signal
+allocate_flm_regressor,hash__Site__50,0.2603847086429596,Site category signal
+allocate_flm_regressor,hash__Site__93,0.2603707015514374,Site category signal
+allocate_flm_regressor,hash__Line Name__56,0.2603422701358795,Line Name category signal
+allocate_flm_regressor,rec_cost_value,0.26021653413772583,rec_cost_value
+allocate_flm_regressor,weak_demand,0.26018625497817993,weak_demand
+allocate_flm_regressor,hash__Site__67,0.26008108258247375,Site category signal
+allocate_flm_regressor,hash__Class Name__49,0.2599104046821594,Class Name category signal
+allocate_flm_regressor,hash__Class Name__18,0.25986528396606445,Class Name category signal
+allocate_flm_regressor,hash__Site__28,0.25975146889686584,Site category signal
+allocate_flm_regressor,hash__Line Name__48,0.25974491238594055,Line Name category signal
+allocate_flm_regressor,hash__Rank__1,0.2597225308418274,Rank category signal
+allocate_flm_regressor,hash__Site__46,0.2597196102142334,Site category signal
+allocate_flm_regressor,hash__Site__77,0.25970232486724854,Site category signal
+allocate_flm_regressor,hash__Line Name__127,0.25960347056388855,Line Name category signal
+allocate_flm_regressor,hash__Line Name__28,0.25957757234573364,Line Name category signal
+allocate_flm_regressor,hash__Site__85,0.25954902172088623,Site category signal
+allocate_flm_regressor,hash__Site__89,0.2594418525695801,Site category signal
+allocate_flm_regressor,hash__Line Name__42,0.25943541526794434,Line Name category signal
+allocate_flm_regressor,hash__Line Name__60,0.25939029455184937,Line Name category signal
+allocate_flm_regressor,hash__Line Name__22,0.2593461275100708,Line Name category signal
+allocate_flm_regressor,hash__Class Name__75,0.25933828949928284,Class Name category signal
+allocate_flm_regressor,hash__Site__57,0.25926485657691956,Site category signal
+allocate_flm_regressor,hash__Flag__7,0.25921404361724854,Flag category signal
+allocate_flm_regressor,d30_to_d60,0.2591876983642578,d30_to_d60
+allocate_flm_regressor,hash__Site__34,0.2591559588909149,Site category signal
+allocate_flm_regressor,hash__Rank__5,0.2590954005718231,Rank category signal
+allocate_flm_regressor,hash__Line Name__109,0.25904813408851624,Line Name category signal
+allocate_flm_regressor,hash__Class Name__74,0.2590251564979553,Class Name category signal
+allocate_flm_regressor,hash__Class Name__62,0.2590247392654419,Class Name category signal
+allocate_flm_regressor,hash__Site__92,0.2589801847934723,Site category signal
+allocate_flm_regressor,hash__Class Name__41,0.2589739263057709,Class Name category signal
+allocate_flm_regressor,hash__Site__17,0.25896701216697693,Site category signal
+allocate_flm_regressor,hash__Line Name__80,0.258860319852829,Line Name category signal
+allocate_flm_regressor,hash__Line Name__103,0.2588389813899994,Line Name category signal
+allocate_flm_regressor,hash__Site__78,0.2588147222995758,Site category signal
+allocate_flm_regressor,hash__Dc Avail Bucket__7,0.2587698996067047,Dc Avail Bucket category signal
+allocate_flm_regressor,hash__Class Name__69,0.2587129473686218,Class Name category signal
+allocate_flm_regressor,avg_demand,0.2586629092693329,avg_demand
+allocate_flm_regressor,hash__Class Name__12,0.2586572766304016,Class Name category signal
+allocate_flm_regressor,hash__Line Name__74,0.2586376368999481,Line Name category signal
+allocate_flm_regressor,hash__Site__22,0.2584349513053894,Site category signal
+allocate_flm_regressor,hash__Line Name__32,0.25842058658599854,Line Name category signal
+allocate_flm_regressor,hash__Site__29,0.25831764936447144,Site category signal
+allocate_flm_regressor,hash__Line Name__34,0.2583160996437073,Line Name category signal
+allocate_flm_regressor,hash__Site__47,0.25817596912384033,Site category signal
+allocate_flm_regressor,hash__Site__38,0.2580564618110657,Site category signal
+allocate_flm_regressor,hash__Class Name__58,0.25804951786994934,Class Name category signal
+allocate_flm_regressor,supply_to_d30,0.2579480707645416,supply_to_d30
+allocate_flm_regressor,hash__Class Name__83,0.25790026783943176,Class Name category signal
+allocate_flm_regressor,hash__Flag__0,0.2578689157962799,Flag category signal
+allocate_flm_regressor,hash__Site__43,0.2576912045478821,Site category signal
+allocate_flm_regressor,supply_to_proj,0.2576255798339844,supply_to_proj
+allocate_flm_regressor,hash__Line Name__2,0.2575864791870117,Line Name category signal
+allocate_flm_regressor,hash__Line Name__38,0.25748246908187866,Line Name category signal
+allocate_flm_regressor,hash__Site__4,0.2574608325958252,Site category signal
+allocate_flm_regressor,hash__Site__54,0.25739237666130066,Site category signal
+allocate_flm_regressor,hash__Line Name__102,0.25737279653549194,Line Name category signal
+allocate_flm_regressor,hash__Line Name__20,0.2572787404060364,Line Name category signal
+allocate_flm_regressor,hash__Line Name__83,0.25719985365867615,Line Name category signal
+allocate_flm_regressor,hash__Site__91,0.2571609318256378,Site category signal
+allocate_flm_regressor,D60,0.25714755058288574,D60
+allocate_flm_regressor,hash__Line Name__108,0.25714653730392456,Line Name category signal
+allocate_flm_regressor,hash__Class Name__45,0.257111519575119,Class Name category signal
+allocate_flm_regressor,Alloc. Rec.,0.25702646374702454,Alloc. Rec.
+allocate_flm_regressor,hash__Line Name__105,0.25695285201072693,Line Name category signal
+allocate_flm_regressor,hash__Line Name__106,0.2568359375,Line Name category signal
+allocate_flm_regressor,hash__Line Name__53,0.2568138837814331,Line Name category signal
+allocate_flm_regressor,hash__Site__94,0.25676387548446655,Site category signal
+allocate_flm_regressor,hash__Line Name__5,0.25668075680732727,Line Name category signal
+allocate_flm_regressor,max_demand,0.2566799521446228,max_demand
+allocate_flm_regressor,hash__Class Name__33,0.2566007971763611,Class Name category signal
+allocate_flm_regressor,hash__Line Name__45,0.256590336561203,Line Name category signal
+allocate_flm_regressor,hash__Line Name__79,0.25648245215415955,Line Name category signal
+allocate_flm_regressor,hash__Line Name__17,0.25627899169921875,Line Name category signal
+allocate_flm_regressor,hash__Line Name__31,0.25624653697013855,Line Name category signal
+allocate_flm_regressor,hash__Line Name__29,0.2562299072742462,Line Name category signal
+allocate_flm_regressor,hash__Line Name__93,0.25607746839523315,Line Name category signal
+allocate_flm_regressor,hash__Class Name__34,0.2560722827911377,Class Name category signal
+allocate_flm_regressor,hash__Line Name__57,0.2560560703277588,Line Name category signal
+allocate_flm_regressor,hash__Line Name__4,0.2559385299682617,Line Name category signal
+allocate_flm_regressor,hash__Class Name__71,0.25589534640312195,Class Name category signal
+allocate_flm_regressor,hash__Line Name__44,0.2558951675891876,Line Name category signal
+allocate_flm_regressor,hash__Site__73,0.25585129857063293,Site category signal
+allocate_flm_regressor,hash__Site__59,0.2558172643184662,Site category signal
+allocate_flm_regressor,hash__Rank__4,0.25573742389678955,Rank category signal
+allocate_flm_regressor,hash__Class Name__79,0.2556934356689453,Class Name category signal
+allocate_flm_regressor,hash__Site__70,0.2556458115577698,Site category signal
+allocate_flm_regressor,hash__Class Name__9,0.2553956210613251,Class Name category signal
+allocate_flm_regressor,hash__Site__6,0.25539126992225647,Site category signal
+allocate_flm_regressor,ttm_monthly,0.2552551031112671,ttm_monthly
+allocate_flm_regressor,hash__Class Name__67,0.2551346719264984,Class Name category signal
+allocate_flm_regressor,mil_gap,0.2550176978111267,mil_gap
+allocate_flm_regressor,hash__Class Name__60,0.25493672490119934,Class Name category signal
+allocate_flm_regressor,hash__Class Name__87,0.25467708706855774,Class Name category signal
+allocate_flm_regressor,hash__Site__49,0.2545962333679199,Site category signal
+allocate_flm_regressor,hash__Line Name__77,0.2544388175010681,Line Name category signal
+allocate_flm_regressor,hash__Class Name__48,0.25436440110206604,Class Name category signal
+allocate_flm_regressor,hash__Site__82,0.2542645037174225,Site category signal
+allocate_flm_regressor,L30,0.2542184293270111,L30
+allocate_flm_regressor,hash__Site__32,0.2541424334049225,Site category signal
+allocate_flm_regressor,hash__Class Name__35,0.25411349534988403,Class Name category signal
+allocate_flm_regressor,hash__Line Name__67,0.253953218460083,Line Name category signal
+allocate_flm_regressor,hash__Line Name__91,0.25381940603256226,Line Name category signal
+allocate_flm_regressor,hash__Line Name__118,0.25381436944007874,Line Name category signal
+allocate_flm_regressor,hash__Class Name__53,0.2537787854671478,Class Name category signal
+allocate_flm_regressor,hash__Line Name__115,0.25364965200424194,Line Name category signal
+allocate_flm_regressor,hash__Line Name__6,0.2536140978336334,Line Name category signal
+allocate_flm_regressor,hash__Line Name__10,0.2530694901943207,Line Name category signal
+allocate_flm_regressor,hash__Class Name__1,0.25295257568359375,Class Name category signal
+allocate_flm_regressor,TTM,0.25286591053009033,TTM
+allocate_flm_regressor,hash__Site__31,0.25285211205482483,Site category signal
+allocate_flm_regressor,hash__Line Name__50,0.25270506739616394,Line Name category signal
+allocate_flm_regressor,hash__Line Name__51,0.2521026134490967,Line Name category signal
+allocate_flm_regressor,hash__Site__66,0.2519931495189667,Site category signal
+allocate_flm_regressor,hash__Site__44,0.25191763043403625,Site category signal
+allocate_flm_regressor,hash__Class Name__30,0.2519141733646393,Class Name category signal
+allocate_flm_regressor,hash__Line Name__96,0.2518998682498932,Line Name category signal
+allocate_flm_regressor,hash__Line Name__101,0.2518397569656372,Line Name category signal
+allocate_flm_regressor,hash__Class Name__59,0.25179582834243774,Class Name category signal
+allocate_flm_regressor,hash__Class Name__21,0.2517646551132202,Class Name category signal
+allocate_flm_regressor,hash__Class Name__70,0.2513880431652069,Class Name category signal
+allocate_flm_regressor,hash__Site__88,0.2512264847755432,Site category signal
+allocate_flm_regressor,hash__Class Name__13,0.2508906424045563,Class Name category signal
+allocate_flm_regressor,hash__Line Name__41,0.2508818805217743,Line Name category signal
+allocate_flm_regressor,hash__Line Name__3,0.2503843605518341,Line Name category signal
+allocate_flm_regressor,hash__Site__0,0.25037214159965515,Site category signal
+allocate_flm_regressor,hash__Line Name__125,0.25016602873802185,Line Name category signal
+allocate_flm_regressor,hash__Line Name__68,0.250052809715271,Line Name category signal
+allocate_flm_regressor,supply_cost_value,0.24990606307983398,supply_cost_value
+allocate_flm_regressor,hash__Class Name__82,0.24961638450622559,Class Name category signal
+allocate_flm_regressor,proj_gap,0.24953725934028625,proj_gap
+allocate_flm_regressor,Dc Avail,0.24926115572452545,Dc Avail
+allocate_flm_regressor,hash__Site__45,0.24910520017147064,Site category signal
+allocate_flm_regressor,hash__Site__12,0.24899214506149292,Site category signal
+allocate_flm_regressor,hash__Site__13,0.2485009878873825,Site category signal
+allocate_flm_regressor,hash__Line Name__95,0.2484283447265625,Line Name category signal
+allocate_flm_regressor,hash__Site__33,0.24808503687381744,Site category signal
+allocate_flm_regressor,hash__Line Name__39,0.24804402887821198,Line Name category signal
+allocate_flm_regressor,hash__Class Name__37,0.2472287118434906,Class Name category signal
+allocate_flm_regressor,hash__Site__30,0.24615193903446198,Site category signal
+allocate_flm_regressor,Cost,0.24454805254936218,Cost
+allocate_flm_regressor,hash__Class Name__65,0.24405205249786377,Class Name category signal
+allocate_flm_regressor,hash__Class Name__17,0.24333931505680084,Class Name category signal
+allocate_flm_regressor,hash__Site__5,0.24282431602478027,Site category signal
+allocate_group_classifier,hash__Site__11,0.33303627371788025,Site category signal
+allocate_group_classifier,hash__Rank__6,0.3255445063114166,Rank category signal
+allocate_group_classifier,hash__Line Name__11,0.31688404083251953,Line Name category signal
+allocate_group_classifier,hash__Line Name__35,0.31071141362190247,Line Name category signal
+allocate_group_classifier,hash__Class Name__6,0.3064064383506775,Class Name category signal
+allocate_group_classifier,hash__Line Name__120,0.3000221252441406,Line Name category signal
+allocate_group_classifier,hash__Line Name__25,0.29820916056632996,Line Name category signal
+allocate_group_classifier,hash__Line Name__24,0.29793524742126465,Line Name category signal
+allocate_group_classifier,hash__Site__80,0.29649901390075684,Site category signal
+allocate_group_classifier,hash__Site__31,0.29638224840164185,Site category signal
+allocate_group_classifier,hash__Site__7,0.2961178123950958,Site category signal
+allocate_group_classifier,hash__Class Name__0,0.2947445213794708,Class Name category signal
+allocate_group_classifier,hash__Line Name__28,0.2944599390029907,Line Name category signal
+allocate_group_classifier,hash__Line Name__97,0.2937456965446472,Line Name category signal
+allocate_group_classifier,hash__Site__3,0.2924858331680298,Site category signal
+allocate_group_classifier,hash__Site__58,0.2913999855518341,Site category signal
+allocate_group_classifier,hash__Line Name__51,0.29134511947631836,Line Name category signal
+allocate_group_classifier,hash__Line Name__52,0.290929913520813,Line Name category signal
+allocate_group_classifier,hash__Line Name__47,0.2897000312805176,Line Name category signal
+allocate_group_classifier,hash__Site__18,0.2890837788581848,Site category signal
+allocate_group_classifier,hash__Line Name__8,0.2886449098587036,Line Name category signal
+allocate_group_classifier,hash__Line Name__5,0.2884206473827362,Line Name category signal
+allocate_group_classifier,hash__Site__83,0.2877974510192871,Site category signal
+allocate_group_classifier,hash__Line Name__61,0.28714999556541443,Line Name category signal
+allocate_group_classifier,hash__Line Name__60,0.2870181202888489,Line Name category signal
+allocate_group_classifier,hash__Site__67,0.28664907813072205,Site category signal
+allocate_group_classifier,hash__Line Name__63,0.2864915430545807,Line Name category signal
+allocate_group_classifier,hash__Line Name__1,0.28490883111953735,Line Name category signal
+allocate_group_classifier,hash__Site__21,0.28434130549430847,Site category signal
+allocate_group_classifier,hash__Site__34,0.2842990458011627,Site category signal
+allocate_group_classifier,hash__Site__90,0.2838749587535858,Site category signal
+allocate_group_classifier,hash__Class Name__77,0.28381291031837463,Class Name category signal
+allocate_group_classifier,hash__Site__95,0.28373998403549194,Site category signal
+allocate_group_classifier,hash__Line Name__9,0.2836062014102936,Line Name category signal
+allocate_group_classifier,hash__Site__4,0.28345024585723877,Site category signal
+allocate_group_classifier,d60_gap,0.28221675753593445,d60_gap
+allocate_group_classifier,hash__Site__54,0.2814885079860687,Site category signal
+allocate_group_classifier,hash__Line Name__58,0.28092730045318604,Line Name category signal
+allocate_group_classifier,hash__Line Name__14,0.2806597948074341,Line Name category signal
+allocate_group_classifier,hash__Line Name__86,0.28047648072242737,Line Name category signal
+allocate_group_classifier,hash__Line Name__0,0.280208945274353,Line Name category signal
+allocate_group_classifier,hash__Line Name__71,0.2799040973186493,Line Name category signal
+allocate_group_classifier,hash__Line Name__54,0.2797788381576538,Line Name category signal
+allocate_group_classifier,supply_to_proj,0.2797648310661316,supply_to_proj
+allocate_group_classifier,hash__Class Name__91,0.27971890568733215,Class Name category signal
+allocate_group_classifier,hash__Class Name__53,0.2796210050582886,Class Name category signal
+allocate_group_classifier,hash__Class Name__25,0.2794756591320038,Class Name category signal
+allocate_group_classifier,hash__Line Name__89,0.27917373180389404,Line Name category signal
+allocate_group_classifier,hash__Line Name__105,0.27903398871421814,Line Name category signal
+allocate_group_classifier,hash__Site__15,0.27894681692123413,Site category signal
+allocate_group_classifier,hash__Site__48,0.2788352072238922,Site category signal
+allocate_group_classifier,hash__Class Name__32,0.2788041830062866,Class Name category signal
+allocate_group_classifier,hash__Site__8,0.27868783473968506,Site category signal
+allocate_group_classifier,hash__Site__2,0.2785864472389221,Site category signal
+allocate_group_classifier,hash__Line Name__46,0.2785453498363495,Line Name category signal
+allocate_group_classifier,hash__Line Name__123,0.27851200103759766,Line Name category signal
+allocate_group_classifier,hash__Site__74,0.2783924341201782,Site category signal
+allocate_group_classifier,hash__Site__85,0.2783459424972534,Site category signal
+allocate_group_classifier,hash__Line Name__127,0.2779541313648224,Line Name category signal
+allocate_group_classifier,hash__Class Name__43,0.27757710218429565,Class Name category signal
+allocate_group_classifier,hash__Class Name__15,0.2774806320667267,Class Name category signal
+allocate_group_classifier,hash__Site__60,0.2774490714073181,Site category signal
+allocate_group_classifier,hash__Rank__0,0.2774408459663391,Rank category signal
+allocate_group_classifier,hash__Class Name__40,0.2772481143474579,Class Name category signal
+allocate_group_classifier,hash__Line Name__64,0.2771563231945038,Line Name category signal
+allocate_group_classifier,hash__Site__39,0.2769467830657959,Site category signal
+allocate_group_classifier,hash__Site__49,0.2768368124961853,Site category signal
+allocate_group_classifier,hash__Site__57,0.2766997814178467,Site category signal
+allocate_group_classifier,hash__Line Name__116,0.27661117911338806,Line Name category signal
+allocate_group_classifier,hash__Site__16,0.2761111259460449,Site category signal
+allocate_group_classifier,hash__Site__41,0.2759758532047272,Site category signal
+allocate_group_classifier,hash__Site__88,0.27582424879074097,Site category signal
+allocate_group_classifier,hash__Site__0,0.2754374146461487,Site category signal
+allocate_group_classifier,FLM,0.27541661262512207,FLM
+allocate_group_classifier,hash__Class Name__59,0.275360643863678,Class Name category signal
+allocate_group_classifier,hash__Line Name__83,0.27511006593704224,Line Name category signal
+allocate_group_classifier,hash__Line Name__124,0.2749869227409363,Line Name category signal
+allocate_group_classifier,hash__Site__29,0.27490687370300293,Site category signal
+allocate_group_classifier,hash__Site__28,0.2747058570384979,Site category signal
+allocate_group_classifier,hash__Class Name__51,0.2746140956878662,Class Name category signal
+allocate_group_classifier,hash__Site__9,0.27457353472709656,Site category signal
+allocate_group_classifier,hash__Site__36,0.27441805601119995,Site category signal
+allocate_group_classifier,hash__Class Name__41,0.27428731322288513,Class Name category signal
+allocate_group_classifier,hash__Site__77,0.274272620677948,Site category signal
+allocate_group_classifier,hash__Line Name__114,0.27412527799606323,Line Name category signal
+allocate_group_classifier,hash__Class Name__75,0.274081289768219,Class Name category signal
+allocate_group_classifier,hash__Site__61,0.2740505635738373,Site category signal
+allocate_group_classifier,hash__Line Name__90,0.27370649576187134,Line Name category signal
+allocate_group_classifier,hash__Line Name__57,0.2735215127468109,Line Name category signal
+allocate_group_classifier,hash__Line Name__4,0.27348849177360535,Line Name category signal
+allocate_group_classifier,hash__Line Name__101,0.27340519428253174,Line Name category signal
+allocate_group_classifier,hash__Class Name__10,0.2734045386314392,Class Name category signal
+allocate_group_classifier,hash__Class Name__11,0.27331873774528503,Class Name category signal
+allocate_group_classifier,hash__Line Name__65,0.2732391059398651,Line Name category signal
+allocate_group_classifier,hash__Line Name__102,0.2732238471508026,Line Name category signal
+allocate_group_classifier,hash__Site__50,0.27310892939567566,Site category signal
+allocate_group_classifier,rec_flms,0.27301013469696045,rec_flms
+allocate_group_classifier,hash__Line Name__109,0.2729793190956116,Line Name category signal
+allocate_group_classifier,hash__Line Name__98,0.27278098464012146,Line Name category signal
+allocate_group_classifier,hash__Site__46,0.27272772789001465,Site category signal
+allocate_group_classifier,hash__Site__26,0.2727140784263611,Site category signal
+allocate_group_classifier,hash__Line Name__103,0.2726980149745941,Line Name category signal
+allocate_group_classifier,hash__Line Name__45,0.2726309895515442,Line Name category signal
+allocate_group_classifier,hash__Dc Avail Bucket__3,0.2725284695625305,Dc Avail Bucket category signal
+allocate_group_classifier,hash__Site__25,0.27231350541114807,Site category signal
+allocate_group_classifier,hash__Class Name__22,0.27231085300445557,Class Name category signal
+allocate_group_classifier,hash__Line Name__88,0.27196231484413147,Line Name category signal
+allocate_group_classifier,hash__Line Name__85,0.27142757177352905,Line Name category signal
+allocate_group_classifier,hash__Site__75,0.27142226696014404,Site category signal
+allocate_group_classifier,hash__Line Name__32,0.27110177278518677,Line Name category signal
+allocate_group_classifier,supply_to_d30,0.2709357738494873,supply_to_d30
+allocate_group_classifier,hash__Site__23,0.2708771824836731,Site category signal
+allocate_group_classifier,hash__Line Name__36,0.27086973190307617,Line Name category signal
+allocate_group_classifier,hash__Site__52,0.2708251178264618,Site category signal
+allocate_group_classifier,hash__Line Name__112,0.270662397146225,Line Name category signal
+allocate_group_classifier,hash__Site__33,0.2706546187400818,Site category signal
+allocate_group_classifier,supply_cost_value,0.2702653706073761,supply_cost_value
+allocate_group_classifier,hash__Site__10,0.2700525224208832,Site category signal
+allocate_group_classifier,hash__Site__37,0.2700273394584656,Site category signal
+allocate_group_classifier,hash__Line Name__117,0.26993128657341003,Line Name category signal
+allocate_group_classifier,hash__Line Name__23,0.2697690427303314,Line Name category signal
+allocate_group_classifier,Cost,0.2694859206676483,Cost
+allocate_group_classifier,hash__Site__81,0.2694486379623413,Site category signal
+allocate_group_classifier,hash__Class Name__37,0.2693614959716797,Class Name category signal
+allocate_group_classifier,hash__Class Name__44,0.2691624164581299,Class Name category signal
+allocate_group_classifier,hash__Line Name__72,0.26865822076797485,Line Name category signal
+allocate_group_classifier,hash__Line Name__22,0.26839733123779297,Line Name category signal
+allocate_group_classifier,hash__Site__92,0.26839733123779297,Site category signal
+allocate_group_classifier,hash__Line Name__33,0.2682957351207733,Line Name category signal
+allocate_group_classifier,hash__Site__24,0.26802635192871094,Site category signal
+allocate_group_classifier,hash__Site__70,0.26800933480262756,Site category signal
+allocate_group_classifier,hash__Line Name__19,0.2679777145385742,Line Name category signal
+allocate_group_classifier,hash__Class Name__42,0.2677813172340393,Class Name category signal
+allocate_group_classifier,hash__Line Name__7,0.26776960492134094,Line Name category signal
+allocate_group_classifier,supply_to_d60,0.2674897015094757,supply_to_d60
+allocate_group_classifier,hash__Site__62,0.2674701511859894,Site category signal
+allocate_group_classifier,hash__Line Name__12,0.26719996333122253,Line Name category signal
+allocate_group_classifier,hash__Line Name__76,0.26696839928627014,Line Name category signal
+allocate_group_classifier,hash__Class Name__76,0.266793429851532,Class Name category signal
+allocate_group_classifier,hash__Site__45,0.2667672336101532,Site category signal
+allocate_group_classifier,hash__Class Name__2,0.2667672038078308,Class Name category signal
+allocate_group_classifier,hash__Site__17,0.2661442756652832,Site category signal
+allocate_group_classifier,hash__Site__30,0.26611149311065674,Site category signal
+allocate_group_classifier,hash__Line Name__119,0.2659437358379364,Line Name category signal
+allocate_group_classifier,hash__Site__71,0.26585984230041504,Site category signal
+allocate_group_classifier,hash__Line Name__108,0.2657764256000519,Line Name category signal
+allocate_group_classifier,dc_flms,0.2657759487628937,dc_flms
+allocate_group_classifier,hash__Site__32,0.26575350761413574,Site category signal
+allocate_group_classifier,hash__Flag__1,0.26565036177635193,Flag category signal
+allocate_group_classifier,hash__Line Name__96,0.26557493209838867,Line Name category signal
+allocate_group_classifier,hash__Site__42,0.2655385732650757,Site category signal
+allocate_group_classifier,hash__Class Name__7,0.26524046063423157,Class Name category signal
+allocate_group_classifier,hash__Site__6,0.26503241062164307,Site category signal
+allocate_group_classifier,hash__Site__91,0.26483404636383057,Site category signal
+allocate_group_classifier,hash__Flag__7,0.2648041546344757,Flag category signal
+allocate_group_classifier,hash__Site__51,0.26478496193885803,Site category signal
+allocate_group_classifier,hash__Site__14,0.26466554403305054,Site category signal
+allocate_group_classifier,hash__Site__5,0.26429280638694763,Site category signal
+allocate_group_classifier,hash__Site__78,0.26427626609802246,Site category signal
+allocate_group_classifier,hash__Site__89,0.26407957077026367,Site category signal
+allocate_group_classifier,hash__Line Name__95,0.2639648914337158,Line Name category signal
+allocate_group_classifier,hash__Class Name__73,0.2636154294013977,Class Name category signal
+allocate_group_classifier,hash__Line Name__38,0.2634919583797455,Line Name category signal
+allocate_group_classifier,hash__Site__47,0.2632289528846741,Site category signal
+allocate_group_classifier,hash__Line Name__29,0.26307472586631775,Line Name category signal
+allocate_group_classifier,hash__Class Name__85,0.2630123496055603,Class Name category signal
+allocate_group_classifier,hash__Class Name__20,0.262965589761734,Class Name category signal
+allocate_group_classifier,hash__Dc Avail Bucket__1,0.26292935013771057,Dc Avail Bucket category signal
+allocate_group_classifier,hash__Site__19,0.2628922760486603,Site category signal
+allocate_group_classifier,hash__Rank__2,0.26285722851753235,Rank category signal
+allocate_group_classifier,hash__Class Name__84,0.2627871334552765,Class Name category signal
+allocate_group_classifier,hash__Line Name__74,0.26245787739753723,Line Name category signal
+allocate_group_classifier,hash__Site__86,0.262442409992218,Site category signal
+allocate_group_classifier,hash__Line Name__79,0.26217615604400635,Line Name category signal
+allocate_group_classifier,hash__Line Name__94,0.262128621339798,Line Name category signal
+allocate_group_classifier,hash__Line Name__62,0.26198258996009827,Line Name category signal
+allocate_group_classifier,hash__Site__35,0.26192307472229004,Site category signal
+allocate_group_classifier,hash__Line Name__75,0.2617536783218384,Line Name category signal
+allocate_group_classifier,zero_supply,0.26171430945396423,zero_supply
+allocate_group_classifier,hash__Class Name__88,0.2612496614456177,Class Name category signal
+allocate_group_classifier,hash__Class Name__60,0.26122257113456726,Class Name category signal
+allocate_group_classifier,hash__Rank__7,0.2611478269100189,Rank category signal
+allocate_group_classifier,hash__Line Name__15,0.26094532012939453,Line Name category signal
+allocate_group_classifier,hash__Class Name__92,0.26053038239479065,Class Name category signal
+allocate_group_classifier,hash__Site__94,0.2604618966579437,Site category signal
+allocate_group_classifier,Alloc. Rec.,0.26020875573158264,Alloc. Rec.
+allocate_group_classifier,Dc Avail,0.2601453959941864,Dc Avail
+allocate_group_classifier,hash__Site__1,0.2600383460521698,Site category signal
+allocate_group_classifier,hash__Class Name__55,0.2598830759525299,Class Name category signal
+allocate_group_classifier,hash__Class Name__21,0.2598734200000763,Class Name category signal
+allocate_group_classifier,proj_gap,0.25956231355667114,proj_gap
+allocate_group_classifier,hash__Line Name__39,0.259519100189209,Line Name category signal
+allocate_group_classifier,hash__Line Name__3,0.25950387120246887,Line Name category signal
+allocate_group_classifier,hash__Class Name__57,0.25922268629074097,Class Name category signal
+allocate_group_classifier,hash__Line Name__42,0.25922098755836487,Line Name category signal
+allocate_group_classifier,hash__Line Name__81,0.2591472566127777,Line Name category signal
+allocate_group_classifier,hash__Class Name__80,0.25910288095474243,Class Name category signal
+allocate_group_classifier,hash__Class Name__94,0.2589399516582489,Class Name category signal
+allocate_group_classifier,Supply,0.25883668661117554,Supply
+allocate_group_classifier,hash__Site__63,0.25880542397499084,Site category signal
+allocate_group_classifier,hash__Line Name__56,0.2586810290813446,Line Name category signal
+allocate_group_classifier,avg_demand,0.25846654176712036,avg_demand
+allocate_group_classifier,hash__Site__13,0.2582389712333679,Site category signal
+allocate_group_classifier,hash__Line Name__99,0.2582382261753082,Line Name category signal
+allocate_group_classifier,hash__Class Name__70,0.25822219252586365,Class Name category signal
+allocate_group_classifier,hash__Line Name__67,0.2581939995288849,Line Name category signal
+allocate_group_classifier,hash__Flag__4,0.25797024369239807,Flag category signal
+allocate_group_classifier,hash__Site__27,0.2578195333480835,Site category signal
+allocate_group_classifier,hash__Line Name__126,0.25775429606437683,Line Name category signal
+allocate_group_classifier,hash__Site__79,0.25770291686058044,Site category signal
+allocate_group_classifier,hash__Site__73,0.25762197375297546,Site category signal
+allocate_group_classifier,hash__Line Name__55,0.2573956847190857,Line Name category signal
+allocate_group_classifier,hash__Class Name__23,0.25739359855651855,Class Name category signal
+allocate_group_classifier,hash__Line Name__34,0.2572391927242279,Line Name category signal
+allocate_group_classifier,hash__Line Name__6,0.25717678666114807,Line Name category signal
+allocate_group_classifier,hash__Site__68,0.25713735818862915,Site category signal
+allocate_group_classifier,hash__Class Name__1,0.25712519884109497,Class Name category signal
+allocate_group_classifier,mil_gap,0.2567846179008484,mil_gap
+allocate_group_classifier,hash__Class Name__86,0.25675415992736816,Class Name category signal
+allocate_group_classifier,hash__Class Name__14,0.25667256116867065,Class Name category signal
+allocate_group_classifier,hash__Line Name__18,0.25651299953460693,Line Name category signal
+allocate_group_classifier,hash__Site__56,0.2565027177333832,Site category signal
+allocate_group_classifier,D30,0.2563440799713135,D30
+allocate_group_classifier,hash__Class Name__65,0.25600165128707886,Class Name category signal
+allocate_group_classifier,hash__Class Name__38,0.25595539808273315,Class Name category signal
+allocate_group_classifier,hash__Site__76,0.25584736466407776,Site category signal
+allocate_group_classifier,hash__Line Name__20,0.25582829117774963,Line Name category signal
+allocate_group_classifier,hash__Class Name__12,0.25576090812683105,Class Name category signal
+allocate_group_classifier,hash__Line Name__68,0.2557290494441986,Line Name category signal
+allocate_group_classifier,hash__Dc Avail Bucket__7,0.2555551826953888,Dc Avail Bucket category signal
+allocate_group_classifier,hash__Flag__0,0.2554868459701538,Flag category signal
+allocate_group_classifier,hash__Line Name__53,0.25526440143585205,Line Name category signal
+allocate_group_classifier,hash__Site__38,0.2552420496940613,Site category signal
+allocate_group_classifier,hash__Class Name__82,0.2552199065685272,Class Name category signal
+allocate_group_classifier,hash__Class Name__4,0.25475797057151794,Class Name category signal
+allocate_group_classifier,hash__Dc Avail Bucket__4,0.254756361246109,Dc Avail Bucket category signal
+allocate_group_classifier,hash__Line Name__107,0.25471964478492737,Line Name category signal
+allocate_group_classifier,hash__Class Name__66,0.25453051924705505,Class Name category signal
+allocate_group_classifier,hash__Line Name__59,0.25451454520225525,Line Name category signal
+allocate_group_classifier,hash__Line Name__40,0.2543836534023285,Line Name category signal
+allocate_group_classifier,hash__Line Name__125,0.25436684489250183,Line Name category signal
+allocate_group_classifier,hash__Class Name__47,0.25424906611442566,Class Name category signal
+allocate_group_classifier,hash__Site__44,0.254163920879364,Site category signal
+allocate_group_classifier,hash__Class Name__17,0.25415852665901184,Class Name category signal
+allocate_group_classifier,hash__Line Name__111,0.2540941834449768,Line Name category signal
+allocate_group_classifier,hash__Line Name__77,0.25406503677368164,Line Name category signal
+allocate_group_classifier,hash__Line Name__121,0.25387972593307495,Line Name category signal
+allocate_group_classifier,hash__Dc Avail Bucket__2,0.2537985146045685,Dc Avail Bucket category signal
+allocate_group_classifier,hash__Class Name__26,0.2537563741207123,Class Name category signal
+allocate_group_classifier,hash__Flag__5,0.2535025179386139,Flag category signal
+allocate_group_classifier,hash__Line Name__2,0.2534591257572174,Line Name category signal
+allocate_group_classifier,hash__Site__66,0.25333794951438904,Site category signal
+allocate_group_classifier,hash__Line Name__37,0.25318336486816406,Line Name category signal
+allocate_group_classifier,weak_demand,0.2531609833240509,weak_demand
+allocate_group_classifier,hash__Line Name__92,0.2530839741230011,Line Name category signal
+allocate_group_classifier,hash__Line Name__26,0.2529999613761902,Line Name category signal
+allocate_group_classifier,dc_flms_capped,0.25297048687934875,dc_flms_capped
+allocate_group_classifier,hash__Class Name__63,0.25287845730781555,Class Name category signal
+allocate_group_classifier,hash__Class Name__35,0.2528553009033203,Class Name category signal
+allocate_group_classifier,hash__Class Name__72,0.25273799896240234,Class Name category signal
+allocate_group_classifier,hash__Line Name__113,0.2525084316730499,Line Name category signal
+allocate_group_classifier,hash__Class Name__34,0.25242993235588074,Class Name category signal
+allocate_group_classifier,hash__Class Name__13,0.252336323261261,Class Name category signal
+allocate_group_classifier,hash__Line Name__100,0.25231456756591797,Line Name category signal
+allocate_group_classifier,hash__Line Name__21,0.2522912919521332,Line Name category signal
+allocate_group_classifier,hash__Line Name__30,0.2522621154785156,Line Name category signal
+allocate_group_classifier,hash__Line Name__69,0.252245157957077,Line Name category signal
+allocate_group_classifier,hash__Site__65,0.25222840905189514,Site category signal
+allocate_group_classifier,hash__Dc Avail Bucket__5,0.25215524435043335,Dc Avail Bucket category signal
+allocate_group_classifier,L30,0.25209522247314453,L30
+allocate_group_classifier,has_dc_avail,0.2520083487033844,has_dc_avail
+allocate_group_classifier,hash__Class Name__78,0.2518180012702942,Class Name category signal
+allocate_group_classifier,rec_cost_value,0.2517740726470947,rec_cost_value
+allocate_group_classifier,hash__Rank__1,0.2516322433948517,Rank category signal
+allocate_group_classifier,hash__Line Name__50,0.25147902965545654,Line Name category signal
+allocate_group_classifier,D60,0.2513149380683899,D60
+allocate_group_classifier,hash__Dc Avail Bucket__0,0.2512947618961334,Dc Avail Bucket category signal
+allocate_group_classifier,hash__Class Name__18,0.2512250244617462,Class Name category signal
+allocate_group_classifier,l30_to_d30,0.25116679072380066,l30_to_d30
+allocate_group_classifier,hash__Line Name__13,0.25092199444770813,Line Name category signal
+allocate_group_classifier,hash__Class Name__87,0.25085094571113586,Class Name category signal
+allocate_group_classifier,hash__Site__55,0.25078314542770386,Site category signal
+allocate_group_classifier,hash__Class Name__89,0.2506673336029053,Class Name category signal
+allocate_group_classifier,hash__Class Name__54,0.25064727663993835,Class Name category signal
+allocate_group_classifier,ttm_monthly,0.2504357397556305,ttm_monthly
+allocate_group_classifier,hash__Site__53,0.25042831897735596,Site category signal
+allocate_group_classifier,hash__Site__12,0.2504240870475769,Site category signal
+allocate_group_classifier,hash__Line Name__48,0.25032687187194824,Line Name category signal
+allocate_group_classifier,hash__Site__87,0.25015512108802795,Site category signal
+allocate_group_classifier,hash__Line Name__82,0.2501536011695862,Line Name category signal
+allocate_group_classifier,hash__Class Name__67,0.25001853704452515,Class Name category signal
+allocate_group_classifier,hash__Class Name__33,0.2499884068965912,Class Name category signal
+allocate_group_classifier,max_demand,0.2499404102563858,max_demand
+allocate_group_classifier,hash__Line Name__84,0.24985556304454803,Line Name category signal
+allocate_group_classifier,Proj. Demand,0.24965417385101318,Proj. Demand
+allocate_group_classifier,hash__Class Name__68,0.24964995682239532,Class Name category signal
+allocate_group_classifier,hash__Line Name__27,0.24958881735801697,Line Name category signal
+allocate_group_classifier,hash__Site__43,0.24949859082698822,Site category signal
+allocate_group_classifier,TTM,0.2494858354330063,TTM
+allocate_group_classifier,hash__Class Name__27,0.24943451583385468,Class Name category signal
+allocate_group_classifier,MIL,0.24939805269241333,MIL
+allocate_group_classifier,hash__Site__20,0.2491340935230255,Site category signal
+allocate_group_classifier,hash__Rank__4,0.24909625947475433,Rank category signal
+allocate_group_classifier,hash__Rank__3,0.24901090562343597,Rank category signal
+allocate_group_classifier,hash__Class Name__28,0.24888598918914795,Class Name category signal
+allocate_group_classifier,hash__Class Name__39,0.248731791973114,Class Name category signal
+allocate_group_classifier,hash__Class Name__29,0.24855580925941467,Class Name category signal
+allocate_group_classifier,hash__Line Name__122,0.24851302802562714,Line Name category signal
+allocate_group_classifier,hash__Class Name__69,0.2484859675168991,Class Name category signal
+allocate_group_classifier,hash__Line Name__70,0.2484784871339798,Line Name category signal
+allocate_group_classifier,hash__Line Name__73,0.2484663873910904,Line Name category signal
+allocate_group_classifier,hash__Class Name__31,0.24815453588962555,Class Name category signal
+allocate_group_classifier,hash__Site__93,0.24799728393554688,Site category signal
+allocate_group_classifier,hash__Line Name__91,0.24799521267414093,Line Name category signal
+allocate_group_classifier,hash__Site__69,0.24795790016651154,Site category signal
+allocate_group_classifier,hash__Class Name__83,0.24788925051689148,Class Name category signal
+allocate_group_classifier,hash__Class Name__9,0.24782954156398773,Class Name category signal
+allocate_group_classifier,hash__Line Name__17,0.2477010190486908,Line Name category signal
+allocate_group_classifier,hash__Site__72,0.24766255915164948,Site category signal
+allocate_group_classifier,hash__Class Name__45,0.24753539264202118,Class Name category signal
+allocate_group_classifier,has_alloc_rec,0.2475210279226303,has_alloc_rec
+allocate_group_classifier,lw_month_to_l30,0.24750179052352905,lw_month_to_l30
+allocate_group_classifier,hash__Class Name__90,0.24732087552547455,Class Name category signal
+allocate_group_classifier,hash__Line Name__104,0.24724802374839783,Line Name category signal
+allocate_group_classifier,hash__Class Name__62,0.24714544415473938,Class Name category signal
+allocate_group_classifier,hash__Class Name__36,0.24712413549423218,Class Name category signal
+allocate_group_classifier,hash__Class Name__71,0.24708199501037598,Class Name category signal
+allocate_group_classifier,hash__Class Name__5,0.24703636765480042,Class Name category signal
+allocate_group_classifier,hash__Class Name__95,0.24703331291675568,Class Name category signal
+allocate_group_classifier,hash__Flag__2,0.24697431921958923,Flag category signal
+allocate_group_classifier,hash__Line Name__80,0.24696385860443115,Line Name category signal
+allocate_group_classifier,rec_minus_pressure,0.24689804017543793,rec_minus_pressure
+allocate_group_classifier,hash__Line Name__93,0.24652381241321564,Line Name category signal
+allocate_group_classifier,rank_score,0.246496319770813,rank_score
+allocate_group_classifier,hash__Line Name__44,0.2464657723903656,Line Name category signal
+allocate_group_classifier,hash__Class Name__56,0.2463335394859314,Class Name category signal
+allocate_group_classifier,hash__Class Name__48,0.24628779292106628,Class Name category signal
+allocate_group_classifier,hash__Class Name__46,0.246274933218956,Class Name category signal
+allocate_group_classifier,hash__Line Name__110,0.24615518748760223,Line Name category signal
+allocate_group_classifier,hash__Site__84,0.24602769315242767,Site category signal
+allocate_group_classifier,hash__Class Name__50,0.24596741795539856,Class Name category signal
+allocate_group_classifier,hash__Flag__6,0.24574550986289978,Flag category signal
+allocate_group_classifier,hash__Class Name__30,0.24540352821350098,Class Name category signal
+allocate_group_classifier,hash__Class Name__8,0.24532091617584229,Class Name category signal
+allocate_group_classifier,LW,0.24507713317871094,LW
+allocate_group_classifier,hash__Line Name__118,0.2450406551361084,Line Name category signal
+allocate_group_classifier,hash__Line Name__66,0.24496868252754211,Line Name category signal
+allocate_group_classifier,hash__Site__40,0.24483846127986908,Site category signal
+allocate_group_classifier,hash__Dc Avail Bucket__6,0.24482794106006622,Dc Avail Bucket category signal
+allocate_group_classifier,hash__Class Name__19,0.2447236329317093,Class Name category signal
+allocate_group_classifier,hash__Site__82,0.2445717304944992,Site category signal
+allocate_group_classifier,hash__Class Name__49,0.2445642650127411,Class Name category signal
+allocate_group_classifier,hash__Line Name__10,0.24453166127204895,Line Name category signal
+allocate_group_classifier,d30_to_d60,0.24384337663650513,d30_to_d60
+allocate_group_classifier,hash__Site__59,0.2437194138765335,Site category signal
+allocate_group_classifier,hash__Line Name__78,0.24347496032714844,Line Name category signal
+allocate_group_classifier,hash__Class Name__52,0.2434520125389099,Class Name category signal
+allocate_group_classifier,hash__Line Name__115,0.24329419434070587,Line Name category signal
+allocate_group_classifier,hash__Line Name__41,0.2431977242231369,Line Name category signal
+allocate_group_classifier,hash__Class Name__93,0.24300937354564667,Class Name category signal
+allocate_group_classifier,demand_pressure,0.2428530752658844,demand_pressure
+allocate_group_classifier,hash__Line Name__106,0.2425498515367508,Line Name category signal
+allocate_group_classifier,hash__Line Name__49,0.2415151298046112,Line Name category signal
+allocate_group_classifier,hash__Flag__3,0.24142935872077942,Flag category signal
+allocate_group_classifier,hash__Class Name__24,0.2413933426141739,Class Name category signal
+allocate_group_classifier,hash__Class Name__74,0.24122434854507446,Class Name category signal
+allocate_group_classifier,hash__Line Name__43,0.240846186876297,Line Name category signal
+allocate_group_classifier,hash__Class Name__16,0.24053040146827698,Class Name category signal
+allocate_group_classifier,hash__Class Name__61,0.24041934311389923,Class Name category signal
+allocate_group_classifier,hash__Class Name__3,0.24021202325820923,Class Name category signal
+allocate_group_classifier,hash__Class Name__58,0.23910489678382874,Class Name category signal
+allocate_group_classifier,d30_gap,0.2390058934688568,d30_gap
+allocate_group_classifier,hash__Site__64,0.2385486662387848,Site category signal
+allocate_group_classifier,hash__Line Name__31,0.2379070520401001,Line Name category signal
+allocate_group_classifier,hash__Class Name__64,0.2377011775970459,Class Name category signal
+allocate_group_classifier,hash__Class Name__79,0.2376062273979187,Class Name category signal
+allocate_group_classifier,hash__Rank__5,0.23760057985782623,Rank category signal
+allocate_group_classifier,hash__Line Name__87,0.23712469637393951,Line Name category signal
+allocate_group_classifier,hash__Site__22,0.2368885725736618,Site category signal
+allocate_group_classifier,hash__Class Name__81,0.23639732599258423,Class Name category signal
+allocate_group_classifier,hash__Line Name__16,0.2291429489850998,Line Name category signal
+review_flm_regressor,hash__Line Name__62,0.28621235489845276,Line Name category signal
+review_flm_regressor,hash__Site__53,0.2811312675476074,Site category signal
+review_flm_regressor,MIL,0.2794589102268219,MIL
+review_flm_regressor,hash__Line Name__58,0.278136283159256,Line Name category signal
+review_flm_regressor,hash__Class Name__32,0.27772578597068787,Class Name category signal
+review_flm_regressor,hash__Line Name__27,0.2769230306148529,Line Name category signal
+review_flm_regressor,hash__Class Name__44,0.27688124775886536,Class Name category signal
+review_flm_regressor,hash__Site__76,0.27684319019317627,Site category signal
+review_flm_regressor,hash__Class Name__40,0.2767626643180847,Class Name category signal
+review_flm_regressor,hash__Line Name__100,0.27668240666389465,Line Name category signal
+review_flm_regressor,hash__Line Name__117,0.2761467695236206,Line Name category signal
+review_flm_regressor,hash__Line Name__120,0.27583765983581543,Line Name category signal
+review_flm_regressor,hash__Class Name__42,0.2756974995136261,Class Name category signal
+review_flm_regressor,hash__Site__68,0.2754003405570984,Site category signal
+review_flm_regressor,hash__Flag__4,0.2752417325973511,Flag category signal
+review_flm_regressor,hash__Line Name__54,0.27465617656707764,Line Name category signal
+review_flm_regressor,zero_supply,0.2746128439903259,zero_supply
+review_flm_regressor,hash__Class Name__39,0.27458810806274414,Class Name category signal
+review_flm_regressor,dc_flms_capped,0.2745762765407562,dc_flms_capped
+review_flm_regressor,hash__Dc Avail Bucket__3,0.2744614779949188,Dc Avail Bucket category signal
+review_flm_regressor,hash__Dc Avail Bucket__1,0.27404412627220154,Dc Avail Bucket category signal
+review_flm_regressor,hash__Class Name__0,0.2737668454647064,Class Name category signal
+review_flm_regressor,hash__Rank__2,0.27371740341186523,Rank category signal
+review_flm_regressor,hash__Line Name__46,0.27356499433517456,Line Name category signal
+review_flm_regressor,hash__Line Name__15,0.2732508182525635,Line Name category signal
+review_flm_regressor,hash__Class Name__66,0.27319902181625366,Class Name category signal
+review_flm_regressor,hash__Line Name__16,0.27311214804649353,Line Name category signal
+review_flm_regressor,hash__Site__70,0.2730748951435089,Site category signal
+review_flm_regressor,hash__Site__72,0.2729911208152771,Site category signal
+review_flm_regressor,hash__Line Name__49,0.2729686498641968,Line Name category signal
+review_flm_regressor,hash__Site__9,0.2729477286338806,Site category signal
+review_flm_regressor,hash__Class Name__43,0.27293992042541504,Class Name category signal
+review_flm_regressor,hash__Line Name__1,0.27261945605278015,Line Name category signal
+review_flm_regressor,hash__Class Name__15,0.2726043164730072,Class Name category signal
+review_flm_regressor,hash__Site__2,0.2725985050201416,Site category signal
+review_flm_regressor,hash__Line Name__37,0.27253156900405884,Line Name category signal
+review_flm_regressor,hash__Class Name__14,0.2724754512310028,Class Name category signal
+review_flm_regressor,hash__Site__55,0.2722122371196747,Site category signal
+review_flm_regressor,hash__Class Name__22,0.2721731662750244,Class Name category signal
+review_flm_regressor,hash__Site__41,0.27215468883514404,Site category signal
+review_flm_regressor,hash__Site__63,0.27203890681266785,Site category signal
+review_flm_regressor,hash__Line Name__88,0.2720321714878082,Line Name category signal
+review_flm_regressor,hash__Flag__3,0.27165302634239197,Flag category signal
+review_flm_regressor,hash__Line Name__124,0.2716313898563385,Line Name category signal
+review_flm_regressor,hash__Site__26,0.2715759575366974,Site category signal
+review_flm_regressor,hash__Line Name__25,0.2713879644870758,Line Name category signal
+review_flm_regressor,hash__Line Name__63,0.27133724093437195,Line Name category signal
+review_flm_regressor,hash__Site__16,0.2712811529636383,Site category signal
+review_flm_regressor,hash__Line Name__89,0.271278977394104,Line Name category signal
+review_flm_regressor,hash__Site__80,0.27125468850135803,Site category signal
+review_flm_regressor,hash__Line Name__78,0.2712312340736389,Line Name category signal
+review_flm_regressor,hash__Site__95,0.2711873948574066,Site category signal
+review_flm_regressor,hash__Site__69,0.27109771966934204,Site category signal
+review_flm_regressor,hash__Line Name__64,0.27084532380104065,Line Name category signal
+review_flm_regressor,hash__Class Name__10,0.27058929204940796,Class Name category signal
+review_flm_regressor,hash__Site__23,0.27058038115501404,Site category signal
+review_flm_regressor,hash__Line Name__119,0.2704845666885376,Line Name category signal
+review_flm_regressor,hash__Site__1,0.2704141139984131,Site category signal
+review_flm_regressor,hash__Line Name__94,0.27026718854904175,Line Name category signal
+review_flm_regressor,hash__Class Name__88,0.2702362835407257,Class Name category signal
+review_flm_regressor,hash__Line Name__65,0.2701575756072998,Line Name category signal
+review_flm_regressor,hash__Class Name__31,0.27014708518981934,Class Name category signal
+review_flm_regressor,hash__Site__27,0.2701330780982971,Site category signal
+review_flm_regressor,hash__Site__35,0.2701180875301361,Site category signal
+review_flm_regressor,hash__Site__37,0.27011415362358093,Site category signal
+review_flm_regressor,hash__Dc Avail Bucket__6,0.27010151743888855,Dc Avail Bucket category signal
+review_flm_regressor,hash__Flag__2,0.2700711190700531,Flag category signal
+review_flm_regressor,hash__Line Name__99,0.2700064182281494,Line Name category signal
+review_flm_regressor,hash__Class Name__85,0.2699698805809021,Class Name category signal
+review_flm_regressor,hash__Line Name__113,0.26988646388053894,Line Name category signal
+review_flm_regressor,hash__Line Name__66,0.26970046758651733,Line Name category signal
+review_flm_regressor,hash__Class Name__68,0.2696368098258972,Class Name category signal
+review_flm_regressor,hash__Site__90,0.26958784461021423,Site category signal
+review_flm_regressor,hash__Line Name__98,0.26931267976760864,Line Name category signal
+review_flm_regressor,hash__Site__57,0.2692539095878601,Site category signal
+review_flm_regressor,hash__Line Name__81,0.26918551325798035,Line Name category signal
+review_flm_regressor,hash__Line Name__13,0.26916539669036865,Line Name category signal
+review_flm_regressor,hash__Class Name__72,0.26914355158805847,Class Name category signal
+review_flm_regressor,supply_to_d60,0.26907503604888916,supply_to_d60
+review_flm_regressor,hash__Dc Avail Bucket__4,0.26905497908592224,Dc Avail Bucket category signal
+review_flm_regressor,hash__Site__86,0.26895591616630554,Site category signal
+review_flm_regressor,hash__Site__58,0.26894569396972656,Site category signal
+review_flm_regressor,hash__Site__7,0.26894253492355347,Site category signal
+review_flm_regressor,hash__Line Name__85,0.2689027786254883,Line Name category signal
+review_flm_regressor,hash__Dc Avail Bucket__2,0.26883962750434875,Dc Avail Bucket category signal
+review_flm_regressor,hash__Line Name__12,0.2687792479991913,Line Name category signal
+review_flm_regressor,hash__Site__14,0.26876014471054077,Site category signal
+review_flm_regressor,hash__Site__20,0.2687515914440155,Site category signal
+review_flm_regressor,hash__Class Name__5,0.26872992515563965,Class Name category signal
+review_flm_regressor,hash__Site__48,0.2686789333820343,Site category signal
+review_flm_regressor,hash__Line Name__71,0.2684243321418762,Line Name category signal
+review_flm_regressor,hash__Line Name__7,0.26840338110923767,Line Name category signal
+review_flm_regressor,hash__Site__3,0.26828715205192566,Site category signal
+review_flm_regressor,hash__Class Name__86,0.2682364881038666,Class Name category signal
+review_flm_regressor,hash__Class Name__8,0.26819881796836853,Class Name category signal
+review_flm_regressor,hash__Line Name__73,0.2680833339691162,Line Name category signal
+review_flm_regressor,hash__Class Name__56,0.2680578827857971,Class Name category signal
+review_flm_regressor,hash__Class Name__73,0.26778706908226013,Class Name category signal
+review_flm_regressor,hash__Class Name__11,0.26755598187446594,Class Name category signal
+review_flm_regressor,hash__Class Name__52,0.2675439119338989,Class Name category signal
+review_flm_regressor,hash__Site__56,0.2674505412578583,Site category signal
+review_flm_regressor,hash__Class Name__51,0.2674139142036438,Class Name category signal
+review_flm_regressor,dc_flms,0.2673720121383667,dc_flms
+review_flm_regressor,hash__Line Name__92,0.26725029945373535,Line Name category signal
+review_flm_regressor,hash__Site__8,0.2672378718852997,Site category signal
+review_flm_regressor,hash__Class Name__55,0.26714006066322327,Class Name category signal
+review_flm_regressor,hash__Line Name__123,0.267128050327301,Line Name category signal
+review_flm_regressor,hash__Site__60,0.26704931259155273,Site category signal
+review_flm_regressor,rank_score,0.26704081892967224,rank_score
+review_flm_regressor,hash__Line Name__33,0.26696446537971497,Line Name category signal
+review_flm_regressor,hash__Site__52,0.26695966720581055,Site category signal
+review_flm_regressor,rec_minus_pressure,0.2669556438922882,rec_minus_pressure
+review_flm_regressor,hash__Class Name__61,0.2669401466846466,Class Name category signal
+review_flm_regressor,hash__Line Name__104,0.2669006288051605,Line Name category signal
+review_flm_regressor,hash__Class Name__50,0.26674118638038635,Class Name category signal
+review_flm_regressor,hash__Line Name__86,0.26661115884780884,Line Name category signal
+review_flm_regressor,hash__Line Name__69,0.26657435297966003,Line Name category signal
+review_flm_regressor,LW,0.2663605809211731,LW
+review_flm_regressor,hash__Line Name__75,0.26635807752609253,Line Name category signal
+review_flm_regressor,hash__Dc Avail Bucket__7,0.2663397789001465,Dc Avail Bucket category signal
+review_flm_regressor,hash__Class Name__4,0.2663242220878601,Class Name category signal
+review_flm_regressor,has_dc_avail,0.26626983284950256,has_dc_avail
+review_flm_regressor,hash__Site__21,0.26626718044281006,Site category signal
+review_flm_regressor,hash__Rank__6,0.2662283480167389,Rank category signal
+review_flm_regressor,hash__Site__65,0.26615288853645325,Site category signal
+review_flm_regressor,hash__Site__84,0.2658560574054718,Site category signal
+review_flm_regressor,hash__Site__79,0.26574820280075073,Site category signal
+review_flm_regressor,hash__Line Name__43,0.26571598649024963,Line Name category signal
+review_flm_regressor,hash__Class Name__47,0.26555418968200684,Class Name category signal
+review_flm_regressor,hash__Class Name__64,0.26525378227233887,Class Name category signal
+review_flm_regressor,hash__Class Name__95,0.26522594690322876,Class Name category signal
+review_flm_regressor,hash__Class Name__27,0.2651919722557068,Class Name category signal
+review_flm_regressor,hash__Site__10,0.26518863439559937,Site category signal
+review_flm_regressor,hash__Line Name__97,0.26516664028167725,Line Name category signal
+review_flm_regressor,hash__Line Name__112,0.265164852142334,Line Name category signal
+review_flm_regressor,hash__Line Name__70,0.26500582695007324,Line Name category signal
+review_flm_regressor,hash__Site__18,0.2649959325790405,Site category signal
+review_flm_regressor,hash__Site__87,0.2649395167827606,Site category signal
+review_flm_regressor,hash__Line Name__108,0.2648712694644928,Line Name category signal
+review_flm_regressor,hash__Class Name__20,0.2648654282093048,Class Name category signal
+review_flm_regressor,hash__Site__67,0.2648095488548279,Site category signal
+review_flm_regressor,hash__Line Name__19,0.26478394865989685,Line Name category signal
+review_flm_regressor,hash__Class Name__89,0.2646901607513428,Class Name category signal
+review_flm_regressor,hash__Class Name__78,0.2646453380584717,Class Name category signal
+review_flm_regressor,hash__Site__36,0.26463982462882996,Site category signal
+review_flm_regressor,hash__Class Name__81,0.2646096646785736,Class Name category signal
+review_flm_regressor,hash__Line Name__105,0.2645823359489441,Line Name category signal
+review_flm_regressor,Supply,0.26441964507102966,Supply
+review_flm_regressor,hash__Site__61,0.2644135653972626,Site category signal
+review_flm_regressor,hash__Site__50,0.2643813490867615,Site category signal
+review_flm_regressor,hash__Class Name__38,0.26433950662612915,Class Name category signal
+review_flm_regressor,FLM,0.2643202245235443,FLM
+review_flm_regressor,hash__Line Name__76,0.26429474353790283,Line Name category signal
+review_flm_regressor,hash__Site__39,0.2642425298690796,Site category signal
+review_flm_regressor,hash__Line Name__52,0.2642107307910919,Line Name category signal
+review_flm_regressor,hash__Site__51,0.264106810092926,Site category signal
+review_flm_regressor,hash__Line Name__35,0.2640792429447174,Line Name category signal
+review_flm_regressor,hash__Class Name__94,0.2640126645565033,Class Name category signal
+review_flm_regressor,hash__Site__75,0.26385560631752014,Site category signal
+review_flm_regressor,hash__Site__24,0.2638266086578369,Site category signal
+review_flm_regressor,D30,0.2638205289840698,D30
+review_flm_regressor,hash__Line Name__60,0.2637290358543396,Line Name category signal
+review_flm_regressor,hash__Class Name__91,0.2635355591773987,Class Name category signal
+review_flm_regressor,hash__Class Name__7,0.26352354884147644,Class Name category signal
+review_flm_regressor,hash__Class Name__29,0.2633785307407379,Class Name category signal
+review_flm_regressor,d60_gap,0.26337432861328125,d60_gap
+review_flm_regressor,hash__Site__40,0.2633550763130188,Site category signal
+review_flm_regressor,hash__Site__17,0.26331084966659546,Site category signal
+review_flm_regressor,hash__Site__4,0.26331061124801636,Site category signal
+review_flm_regressor,hash__Class Name__92,0.2632867991924286,Class Name category signal
+review_flm_regressor,hash__Class Name__3,0.26328566670417786,Class Name category signal
+review_flm_regressor,hash__Site__28,0.2632488012313843,Site category signal
+review_flm_regressor,hash__Rank__0,0.2631186544895172,Rank category signal
+review_flm_regressor,hash__Line Name__18,0.26293763518333435,Line Name category signal
+review_flm_regressor,hash__Line Name__40,0.2629152536392212,Line Name category signal
+review_flm_regressor,hash__Line Name__26,0.26287785172462463,Line Name category signal
+review_flm_regressor,hash__Line Name__32,0.2628391981124878,Line Name category signal
+review_flm_regressor,hash__Class Name__28,0.262832909822464,Class Name category signal
+review_flm_regressor,hash__Class Name__46,0.262753963470459,Class Name category signal
+review_flm_regressor,hash__Line Name__36,0.2627151906490326,Line Name category signal
+review_flm_regressor,hash__Site__91,0.26269856095314026,Site category signal
+review_flm_regressor,hash__Dc Avail Bucket__5,0.26264578104019165,Dc Avail Bucket category signal
+review_flm_regressor,hash__Line Name__59,0.26261234283447266,Line Name category signal
+review_flm_regressor,hash__Site__25,0.26258552074432373,Site category signal
+review_flm_regressor,hash__Class Name__90,0.26257359981536865,Class Name category signal
+review_flm_regressor,lw_month_to_l30,0.26253172755241394,lw_month_to_l30
+review_flm_regressor,hash__Class Name__36,0.26251232624053955,Class Name category signal
+review_flm_regressor,hash__Line Name__0,0.26249197125434875,Line Name category signal
+review_flm_regressor,hash__Line Name__47,0.26242440938949585,Line Name category signal
+review_flm_regressor,hash__Line Name__23,0.26241570711135864,Line Name category signal
+review_flm_regressor,hash__Site__42,0.2624121606349945,Site category signal
+review_flm_regressor,d30_gap,0.2622881531715393,d30_gap
+review_flm_regressor,hash__Class Name__24,0.2622539699077606,Class Name category signal
+review_flm_regressor,hash__Line Name__90,0.26224228739738464,Line Name category signal
+review_flm_regressor,hash__Site__81,0.26218634843826294,Site category signal
+review_flm_regressor,Proj. Demand,0.262129545211792,Proj. Demand
+review_flm_regressor,hash__Line Name__61,0.26207613945007324,Line Name category signal
+review_flm_regressor,l30_to_d30,0.2620295286178589,l30_to_d30
+review_flm_regressor,hash__Site__19,0.2618888318538666,Site category signal
+review_flm_regressor,hash__Line Name__83,0.2618493437767029,Line Name category signal
+review_flm_regressor,hash__Line Name__11,0.26179999113082886,Line Name category signal
+review_flm_regressor,hash__Line Name__122,0.2615891993045807,Line Name category signal
+review_flm_regressor,hash__Site__71,0.26125285029411316,Site category signal
+review_flm_regressor,hash__Site__46,0.2612474262714386,Site category signal
+review_flm_regressor,hash__Line Name__114,0.2612341046333313,Line Name category signal
+review_flm_regressor,hash__Class Name__63,0.26122528314590454,Class Name category signal
+review_flm_regressor,hash__Flag__1,0.2612227201461792,Flag category signal
+review_flm_regressor,demand_pressure,0.26119673252105713,demand_pressure
+review_flm_regressor,hash__Line Name__116,0.2611684799194336,Line Name category signal
+review_flm_regressor,hash__Line Name__84,0.2611546218395233,Line Name category signal
+review_flm_regressor,hash__Class Name__76,0.26113900542259216,Class Name category signal
+review_flm_regressor,hash__Line Name__107,0.26113361120224,Line Name category signal
+review_flm_regressor,hash__Class Name__77,0.26103857159614563,Class Name category signal
+review_flm_regressor,hash__Site__92,0.2610144317150116,Site category signal
+review_flm_regressor,hash__Class Name__2,0.26097628474235535,Class Name category signal
+review_flm_regressor,hash__Line Name__110,0.26095831394195557,Line Name category signal
+review_flm_regressor,hash__Site__29,0.2608892619609833,Site category signal
+review_flm_regressor,hash__Site__77,0.2608266770839691,Site category signal
+review_flm_regressor,hash__Site__11,0.260716050863266,Site category signal
+review_flm_regressor,hash__Site__85,0.2606106102466583,Site category signal
+review_flm_regressor,hash__Line Name__55,0.2605842649936676,Line Name category signal
+review_flm_regressor,hash__Class Name__6,0.2605675756931305,Class Name category signal
+review_flm_regressor,hash__Line Name__72,0.26052162051200867,Line Name category signal
+review_flm_regressor,hash__Class Name__62,0.260477215051651,Class Name category signal
+review_flm_regressor,hash__Class Name__16,0.2604728043079376,Class Name category signal
+review_flm_regressor,hash__Class Name__80,0.2604575455188751,Class Name category signal
+review_flm_regressor,hash__Site__78,0.260456383228302,Site category signal
+review_flm_regressor,hash__Class Name__84,0.2604409456253052,Class Name category signal
+review_flm_regressor,hash__Class Name__26,0.26040056347846985,Class Name category signal
+review_flm_regressor,hash__Site__15,0.26039665937423706,Site category signal
+review_flm_regressor,hash__Site__74,0.2603166997432709,Site category signal
+review_flm_regressor,hash__Class Name__23,0.26029396057128906,Class Name category signal
+review_flm_regressor,hash__Line Name__30,0.26019594073295593,Line Name category signal
+review_flm_regressor,hash__Rank__3,0.26017650961875916,Rank category signal
+review_flm_regressor,rec_flms,0.25998586416244507,rec_flms
+review_flm_regressor,hash__Site__47,0.2599502205848694,Site category signal
+review_flm_regressor,hash__Flag__5,0.25988277792930603,Flag category signal
+review_flm_regressor,hash__Line Name__82,0.25982627272605896,Line Name category signal
+review_flm_regressor,hash__Class Name__93,0.2598179578781128,Class Name category signal
+review_flm_regressor,hash__Class Name__41,0.25975221395492554,Class Name category signal
+review_flm_regressor,hash__Class Name__57,0.25973930954933167,Class Name category signal
+review_flm_regressor,hash__Line Name__111,0.2596464157104492,Line Name category signal
+review_flm_regressor,hash__Dc Avail Bucket__0,0.25957971811294556,Dc Avail Bucket category signal
+review_flm_regressor,hash__Site__62,0.25957563519477844,Site category signal
+review_flm_regressor,hash__Site__64,0.25956931710243225,Site category signal
+review_flm_regressor,hash__Line Name__126,0.2594574987888336,Line Name category signal
+review_flm_regressor,hash__Line Name__121,0.25944048166275024,Line Name category signal
+review_flm_regressor,hash__Line Name__87,0.25939351320266724,Line Name category signal
+review_flm_regressor,hash__Flag__6,0.25938254594802856,Flag category signal
+review_flm_regressor,hash__Site__89,0.2593495845794678,Site category signal
+review_flm_regressor,d30_to_d60,0.2593410313129425,d30_to_d60
+review_flm_regressor,hash__Line Name__42,0.259296178817749,Line Name category signal
+review_flm_regressor,hash__Class Name__19,0.2592781186103821,Class Name category signal
+review_flm_regressor,hash__Line Name__9,0.2592676281929016,Line Name category signal
+review_flm_regressor,hash__Site__38,0.2592447102069855,Site category signal
+review_flm_regressor,weak_demand,0.25924235582351685,weak_demand
+review_flm_regressor,hash__Class Name__54,0.25921717286109924,Class Name category signal
+review_flm_regressor,hash__Line Name__21,0.25920742750167847,Line Name category signal
+review_flm_regressor,hash__Site__83,0.25919288396835327,Site category signal
+review_flm_regressor,hash__Site__93,0.2591451406478882,Site category signal
+review_flm_regressor,hash__Line Name__56,0.2591168284416199,Line Name category signal
+review_flm_regressor,hash__Line Name__14,0.2589576840400696,Line Name category signal
+review_flm_regressor,hash__Class Name__25,0.25886693596839905,Class Name category signal
+review_flm_regressor,hash__Line Name__4,0.25884687900543213,Line Name category signal
+review_flm_regressor,hash__Line Name__22,0.25882312655448914,Line Name category signal
+review_flm_regressor,hash__Site__6,0.25874242186546326,Site category signal
+review_flm_regressor,hash__Class Name__49,0.25868698954582214,Class Name category signal
+review_flm_regressor,hash__Class Name__18,0.2586421072483063,Class Name category signal
+review_flm_regressor,avg_demand,0.2586122751235962,avg_demand
+review_flm_regressor,hash__Line Name__48,0.25852230191230774,Line Name category signal
+review_flm_regressor,hash__Rank__1,0.25850000977516174,Rank category signal
+review_flm_regressor,hash__Site__34,0.25804272294044495,Site category signal
+review_flm_regressor,hash__Line Name__127,0.2580365836620331,Line Name category signal
+review_flm_regressor,hash__Line Name__8,0.25803041458129883,Line Name category signal
+review_flm_regressor,supply_to_d30,0.25799790024757385,supply_to_d30
+review_flm_regressor,hash__Flag__7,0.2579939365386963,Flag category signal
+review_flm_regressor,hash__Class Name__75,0.25795307755470276,Class Name category signal
+review_flm_regressor,hash__Line Name__74,0.2579382061958313,Line Name category signal
+review_flm_regressor,hash__Rank__5,0.25787582993507385,Rank category signal
+review_flm_regressor,hash__Class Name__74,0.2578059136867523,Class Name category signal
+review_flm_regressor,D60,0.25779905915260315,D60
+review_flm_regressor,hash__Rank__7,0.2577843964099884,Rank category signal
+review_flm_regressor,hash__Line Name__80,0.25764188170433044,Line Name category signal
+review_flm_regressor,supply_to_proj,0.25760456919670105,supply_to_proj
+review_flm_regressor,hash__Class Name__69,0.2574951648712158,Class Name category signal
+review_flm_regressor,hash__Class Name__12,0.2574397623538971,Class Name category signal
+review_flm_regressor,has_alloc_rec,0.25742700695991516,has_alloc_rec
+review_flm_regressor,hash__Line Name__24,0.25739654898643494,Line Name category signal
+review_flm_regressor,hash__Site__54,0.25734981894493103,Site category signal
+review_flm_regressor,hash__Site__22,0.25721848011016846,Site category signal
+review_flm_regressor,hash__Line Name__34,0.2571002244949341,Line Name category signal
+review_flm_regressor,rec_cost_value,0.2569584250450134,rec_cost_value
+review_flm_regressor,hash__Site__32,0.25690242648124695,Site category signal
+review_flm_regressor,hash__Class Name__58,0.25683486461639404,Class Name category signal
+review_flm_regressor,hash__Site__0,0.25682246685028076,Site category signal
+review_flm_regressor,hash__Site__31,0.25678688287734985,Site category signal
+review_flm_regressor,hash__Class Name__83,0.25668632984161377,Class Name category signal
+review_flm_regressor,hash__Flag__0,0.25665509700775146,Flag category signal
+review_flm_regressor,hash__Class Name__53,0.25652462244033813,Class Name category signal
+review_flm_regressor,hash__Site__43,0.2564782500267029,Site category signal
+review_flm_regressor,mil_gap,0.25639763474464417,mil_gap
+review_flm_regressor,hash__Line Name__38,0.25627049803733826,Line Name category signal
+review_flm_regressor,hash__Line Name__20,0.2560677230358124,Line Name category signal
+review_flm_regressor,hash__Line Name__103,0.255999892950058,Line Name category signal
+review_flm_regressor,hash__Line Name__106,0.25590214133262634,Line Name category signal
+review_flm_regressor,hash__Class Name__45,0.2559013068675995,Class Name category signal
+review_flm_regressor,hash__Site__49,0.255736768245697,Site category signal
+review_flm_regressor,max_demand,0.25565990805625916,max_demand
+review_flm_regressor,hash__Line Name__53,0.2556050717830658,Line Name category signal
+review_flm_regressor,hash__Site__94,0.25555527210235596,Site category signal
+review_flm_regressor,ttm_monthly,0.2555488049983978,ttm_monthly
+review_flm_regressor,hash__Line Name__109,0.2555199861526489,Line Name category signal
+review_flm_regressor,hash__Line Name__2,0.25551554560661316,Line Name category signal
+review_flm_regressor,hash__Line Name__57,0.25539907813072205,Line Name category signal
+review_flm_regressor,hash__Class Name__33,0.25539296865463257,Class Name category signal
+review_flm_regressor,L30,0.2553517520427704,L30
+review_flm_regressor,hash__Line Name__41,0.25532466173171997,Line Name category signal
+review_flm_regressor,hash__Line Name__79,0.255275160074234,Line Name category signal
+review_flm_regressor,hash__Line Name__28,0.25526371598243713,Line Name category signal
+review_flm_regressor,hash__Rank__4,0.2550927698612213,Rank category signal
+review_flm_regressor,hash__Line Name__17,0.255072683095932,Line Name category signal
+review_flm_regressor,hash__Line Name__31,0.25504037737846375,Line Name category signal
+review_flm_regressor,hash__Line Name__29,0.2550238370895386,Line Name category signal
+review_flm_regressor,Alloc. Rec.,0.25495195388793945,Alloc. Rec.
+review_flm_regressor,hash__Line Name__93,0.25487208366394043,Line Name category signal
+review_flm_regressor,hash__Class Name__34,0.25486695766448975,Class Name category signal
+review_flm_regressor,hash__Class Name__71,0.25469082593917847,Class Name category signal
+review_flm_regressor,hash__Line Name__44,0.25469067692756653,Line Name category signal
+review_flm_regressor,hash__Site__73,0.25464698672294617,Site category signal
+review_flm_regressor,hash__Site__59,0.25461313128471375,Site category signal
+review_flm_regressor,hash__Line Name__102,0.25450173020362854,Line Name category signal
+review_flm_regressor,hash__Class Name__79,0.25448983907699585,Class Name category signal
+review_flm_regressor,hash__Site__45,0.2544427216053009,Site category signal
+review_flm_regressor,hash__Site__88,0.2543632388114929,Site category signal
+review_flm_regressor,hash__Line Name__45,0.2542983889579773,Line Name category signal
+review_flm_regressor,hash__Class Name__9,0.2541934549808502,Class Name category signal
+review_flm_regressor,hash__Line Name__5,0.25394919514656067,Line Name category signal
+review_flm_regressor,hash__Class Name__67,0.25393375754356384,Class Name category signal
+review_flm_regressor,hash__Class Name__87,0.2534783184528351,Class Name category signal
+review_flm_regressor,hash__Class Name__60,0.253395140171051,Class Name category signal
+review_flm_regressor,hash__Line Name__77,0.2532411515712738,Line Name category signal
+review_flm_regressor,hash__Line Name__101,0.2532271146774292,Line Name category signal
+review_flm_regressor,hash__Site__66,0.2531774640083313,Site category signal
+review_flm_regressor,hash__Class Name__48,0.25316712260246277,Class Name category signal
+review_flm_regressor,hash__Site__82,0.25306767225265503,Site category signal
+review_flm_regressor,hash__Class Name__35,0.2529173791408539,Class Name category signal
+review_flm_regressor,hash__Line Name__67,0.25275787711143494,Line Name category signal
+review_flm_regressor,hash__Line Name__91,0.25262466073036194,Line Name category signal
+review_flm_regressor,hash__Line Name__118,0.2526196539402008,Line Name category signal
+review_flm_regressor,hash__Line Name__115,0.2524557411670685,Line Name category signal
+review_flm_regressor,hash__Line Name__6,0.2524203360080719,Line Name category signal
+review_flm_regressor,TTM,0.2523807883262634,TTM
+review_flm_regressor,hash__Class Name__59,0.25209543108940125,Class Name category signal
+review_flm_regressor,hash__Line Name__10,0.2518782913684845,Line Name category signal
+review_flm_regressor,hash__Class Name__1,0.25176194310188293,Class Name category signal
+review_flm_regressor,hash__Line Name__50,0.25151556730270386,Line Name category signal
+review_flm_regressor,hash__Site__44,0.25135475397109985,Site category signal
+review_flm_regressor,Dc Avail,0.2511805295944214,Dc Avail
+review_flm_regressor,hash__Class Name__30,0.25072839856147766,Class Name category signal
+review_flm_regressor,hash__Line Name__96,0.2506183385848999,Line Name category signal
+review_flm_regressor,hash__Class Name__21,0.2505795955657959,Class Name category signal
+review_flm_regressor,hash__Class Name__70,0.25020474195480347,Class Name category signal
+review_flm_regressor,supply_cost_value,0.250162810087204,supply_cost_value
+review_flm_regressor,hash__Class Name__13,0.24970968067646027,Class Name category signal
+review_flm_regressor,hash__Site__33,0.24965128302574158,Site category signal
+review_flm_regressor,hash__Line Name__3,0.2492057830095291,Line Name category signal
+review_flm_regressor,hash__Line Name__125,0.24905233085155487,Line Name category signal
+review_flm_regressor,hash__Line Name__51,0.24886147677898407,Line Name category signal
+review_flm_regressor,hash__Line Name__68,0.2484901398420334,Line Name category signal
+review_flm_regressor,hash__Class Name__82,0.2484414279460907,Class Name category signal
+review_flm_regressor,hash__Site__30,0.24795204401016235,Site category signal
+review_flm_regressor,hash__Line Name__95,0.24791596829891205,Line Name category signal
+review_flm_regressor,hash__Site__12,0.24782012403011322,Site category signal
+review_flm_regressor,proj_gap,0.2474374771118164,proj_gap
+review_flm_regressor,hash__Site__13,0.24733129143714905,Site category signal
+review_flm_regressor,hash__Line Name__39,0.24687647819519043,Line Name category signal
+review_flm_regressor,hash__Class Name__37,0.24606499075889587,Class Name category signal
+review_flm_regressor,Cost,0.24538254737854004,Cost
+review_flm_regressor,hash__Class Name__65,0.24290329217910767,Class Name category signal
+review_flm_regressor,hash__Class Name__17,0.24219390749931335,Class Name category signal
+review_flm_regressor,hash__Site__5,0.24139782786369324,Site category signal
+review_group_classifier,hash__Class Name__0,0.3061358630657196,Class Name category signal
+review_group_classifier,hash__Line Name__94,0.3037492036819458,Line Name category signal
+review_group_classifier,supply_to_proj,0.3005228042602539,supply_to_proj
+review_group_classifier,dc_flms,0.3002604842185974,dc_flms
+review_group_classifier,hash__Dc Avail Bucket__1,0.29988351464271545,Dc Avail Bucket category signal
+review_group_classifier,hash__Line Name__97,0.29835864901542664,Line Name category signal
+review_group_classifier,hash__Line Name__89,0.2979936897754669,Line Name category signal
+review_group_classifier,hash__Line Name__71,0.2966376543045044,Line Name category signal
+review_group_classifier,hash__Line Name__123,0.29513341188430786,Line Name category signal
+review_group_classifier,hash__Line Name__127,0.29446539282798767,Line Name category signal
+review_group_classifier,hash__Line Name__52,0.29238635301589966,Line Name category signal
+review_group_classifier,hash__Site__8,0.29171350598335266,Site category signal
+review_group_classifier,hash__Line Name__101,0.29155784845352173,Line Name category signal
+review_group_classifier,hash__Site__11,0.2903333902359009,Site category signal
+review_group_classifier,hash__Line Name__14,0.29001256823539734,Line Name category signal
+review_group_classifier,hash__Rank__6,0.28963154554367065,Rank category signal
+review_group_classifier,hash__Line Name__58,0.28606662154197693,Line Name category signal
+review_group_classifier,hash__Site__18,0.2857434153556824,Site category signal
+review_group_classifier,hash__Line Name__83,0.2855054438114166,Line Name category signal
+review_group_classifier,d60_gap,0.2850322723388672,d60_gap
+review_group_classifier,dc_flms_capped,0.28501567244529724,dc_flms_capped
+review_group_classifier,hash__Line Name__15,0.28430846333503723,Line Name category signal
+review_group_classifier,hash__Line Name__9,0.2840762436389923,Line Name category signal
+review_group_classifier,hash__Line Name__60,0.28382641077041626,Line Name category signal
+review_group_classifier,hash__Class Name__41,0.2837270200252533,Class Name category signal
+review_group_classifier,hash__Site__39,0.28357136249542236,Site category signal
+review_group_classifier,hash__Site__83,0.28281041979789734,Site category signal
+review_group_classifier,hash__Site__60,0.2827374041080475,Site category signal
+review_group_classifier,hash__Line Name__46,0.28237152099609375,Line Name category signal
+review_group_classifier,hash__Site__2,0.28209856152534485,Site category signal
+review_group_classifier,hash__Line Name__120,0.28174635767936707,Line Name category signal
+review_group_classifier,hash__Line Name__0,0.28172966837882996,Line Name category signal
+review_group_classifier,hash__Site__85,0.2816425859928131,Site category signal
+review_group_classifier,hash__Class Name__15,0.2816298305988312,Class Name category signal
+review_group_classifier,hash__Site__52,0.28089243173599243,Site category signal
+review_group_classifier,hash__Class Name__77,0.2802017331123352,Class Name category signal
+review_group_classifier,hash__Line Name__36,0.2799813747406006,Line Name category signal
+review_group_classifier,hash__Site__9,0.2797907292842865,Site category signal
+review_group_classifier,hash__Site__70,0.27967289090156555,Site category signal
+review_group_classifier,hash__Rank__0,0.279622882604599,Rank category signal
+review_group_classifier,hash__Line Name__54,0.27944523096084595,Line Name category signal
+review_group_classifier,hash__Line Name__95,0.27941885590553284,Line Name category signal
+review_group_classifier,hash__Site__58,0.27899494767189026,Site category signal
+review_group_classifier,hash__Site__95,0.2789853811264038,Site category signal
+review_group_classifier,supply_to_d30,0.2787526249885559,supply_to_d30
+review_group_classifier,hash__Site__26,0.27830690145492554,Site category signal
+review_group_classifier,Dc Avail,0.2781583368778229,Dc Avail
+review_group_classifier,hash__Class Name__32,0.27813461422920227,Class Name category signal
+review_group_classifier,hash__Class Name__91,0.2766576111316681,Class Name category signal
+review_group_classifier,hash__Site__4,0.27640101313591003,Site category signal
+review_group_classifier,hash__Line Name__124,0.27637046575546265,Line Name category signal
+review_group_classifier,hash__Line Name__64,0.2763506770133972,Line Name category signal
+review_group_classifier,hash__Site__88,0.27594807744026184,Site category signal
+review_group_classifier,hash__Line Name__28,0.27575168013572693,Line Name category signal
+review_group_classifier,hash__Line Name__108,0.2756214737892151,Line Name category signal
+review_group_classifier,hash__Site__48,0.2755773663520813,Site category signal
+review_group_classifier,hash__Site__10,0.27546587586402893,Site category signal
+review_group_classifier,hash__Class Name__51,0.27546426653862,Class Name category signal
+review_group_classifier,hash__Site__57,0.2754116654396057,Site category signal
+review_group_classifier,hash__Site__75,0.27511122822761536,Site category signal
+review_group_classifier,hash__Line Name__98,0.2750815451145172,Line Name category signal
+review_group_classifier,hash__Site__31,0.27471616864204407,Site category signal
+review_group_classifier,hash__Class Name__25,0.2746036946773529,Class Name category signal
+review_group_classifier,hash__Class Name__40,0.2745893895626068,Class Name category signal
+review_group_classifier,hash__Dc Avail Bucket__3,0.2745789587497711,Dc Avail Bucket category signal
+review_group_classifier,hash__Line Name__117,0.27454081177711487,Line Name category signal
+review_group_classifier,hash__Site__17,0.2739434242248535,Site category signal
+review_group_classifier,hash__Line Name__23,0.2738029360771179,Line Name category signal
+review_group_classifier,hash__Site__34,0.2737828195095062,Site category signal
+review_group_classifier,hash__Line Name__12,0.2735646665096283,Line Name category signal
+review_group_classifier,hash__Class Name__37,0.2733893096446991,Class Name category signal
+review_group_classifier,hash__Class Name__10,0.27316927909851074,Class Name category signal
+review_group_classifier,hash__Site__3,0.27303946018218994,Site category signal
+review_group_classifier,hash__Site__50,0.27289530634880066,Site category signal
+review_group_classifier,hash__Line Name__72,0.2726755142211914,Line Name category signal
+review_group_classifier,hash__Class Name__44,0.27257221937179565,Class Name category signal
+review_group_classifier,hash__Site__24,0.2725059688091278,Site category signal
+review_group_classifier,hash__Site__16,0.2724211812019348,Site category signal
+review_group_classifier,hash__Line Name__105,0.2721560299396515,Line Name category signal
+review_group_classifier,hash__Line Name__35,0.27203500270843506,Line Name category signal
+review_group_classifier,hash__Class Name__60,0.27163010835647583,Class Name category signal
+review_group_classifier,hash__Site__25,0.27131229639053345,Site category signal
+review_group_classifier,hash__Line Name__62,0.27105411887168884,Line Name category signal
+review_group_classifier,hash__Line Name__116,0.27105072140693665,Line Name category signal
+review_group_classifier,hash__Line Name__88,0.2709296941757202,Line Name category signal
+review_group_classifier,hash__Class Name__76,0.27078285813331604,Class Name category signal
+review_group_classifier,hash__Class Name__2,0.27075621485710144,Class Name category signal
+review_group_classifier,hash__Line Name__126,0.2706849277019501,Line Name category signal
+review_group_classifier,hash__Site__21,0.270364910364151,Site category signal
+review_group_classifier,hash__Site__36,0.27016767859458923,Site category signal
+review_group_classifier,hash__Line Name__103,0.270010381937027,Line Name category signal
+review_group_classifier,hash__Line Name__42,0.2694530785083771,Line Name category signal
+review_group_classifier,hash__Site__90,0.2694375216960907,Site category signal
+review_group_classifier,hash__Class Name__42,0.269436240196228,Class Name category signal
+review_group_classifier,hash__Site__23,0.2693789303302765,Site category signal
+review_group_classifier,hash__Class Name__43,0.2693241834640503,Class Name category signal
+review_group_classifier,hash__Line Name__4,0.26921555399894714,Line Name category signal
+review_group_classifier,Cost,0.2691981792449951,Cost
+review_group_classifier,hash__Site__67,0.2691729962825775,Site category signal
+review_group_classifier,hash__Site__74,0.26915839314460754,Site category signal
+review_group_classifier,hash__Line Name__33,0.2689235508441925,Line Name category signal
+review_group_classifier,hash__Site__29,0.26889702677726746,Site category signal
+review_group_classifier,hash__Flag__7,0.26876381039619446,Flag category signal
+review_group_classifier,hash__Line Name__5,0.26870813965797424,Line Name category signal
+review_group_classifier,hash__Line Name__25,0.2685202360153198,Line Name category signal
+review_group_classifier,hash__Line Name__22,0.2683427333831787,Line Name category signal
+review_group_classifier,supply_cost_value,0.2682960629463196,supply_cost_value
+review_group_classifier,hash__Site__7,0.26819908618927,Site category signal
+review_group_classifier,hash__Class Name__75,0.26809731125831604,Class Name category signal
+review_group_classifier,hash__Site__54,0.26807618141174316,Site category signal
+review_group_classifier,hash__Site__89,0.26803329586982727,Site category signal
+review_group_classifier,hash__Dc Avail Bucket__2,0.26789483428001404,Dc Avail Bucket category signal
+review_group_classifier,hash__Line Name__7,0.2678912878036499,Line Name category signal
+review_group_classifier,hash__Class Name__73,0.2675573229789734,Class Name category signal
+review_group_classifier,Supply,0.26746317744255066,Supply
+review_group_classifier,hash__Line Name__38,0.26743200421333313,Line Name category signal
+review_group_classifier,hash__Site__49,0.2674259841442108,Site category signal
+review_group_classifier,hash__Site__0,0.2674088180065155,Site category signal
+review_group_classifier,hash__Line Name__63,0.2673865258693695,Line Name category signal
+review_group_classifier,hash__Line Name__61,0.2673835754394531,Line Name category signal
+review_group_classifier,hash__Line Name__29,0.26700854301452637,Line Name category signal
+review_group_classifier,hash__Class Name__85,0.2669452130794525,Class Name category signal
+review_group_classifier,hash__Class Name__20,0.2668977379798889,Class Name category signal
+review_group_classifier,hash__Line Name__24,0.26685553789138794,Line Name category signal
+review_group_classifier,hash__Site__19,0.26682332158088684,Site category signal
+review_group_classifier,hash__Class Name__84,0.2667166590690613,Class Name category signal
+review_group_classifier,l30_to_d30,0.2665894031524658,l30_to_d30
+review_group_classifier,hash__Line Name__1,0.26657575368881226,Line Name category signal
+review_group_classifier,hash__Class Name__92,0.26653048396110535,Class Name category signal
+review_group_classifier,hash__Site__5,0.26628848910331726,Site category signal
+review_group_classifier,mil_gap,0.266173779964447,mil_gap
+review_group_classifier,hash__Site__77,0.26615992188453674,Site category signal
+review_group_classifier,hash__Line Name__79,0.2660965025424957,Line Name category signal
+review_group_classifier,hash__Line Name__47,0.26605430245399475,Line Name category signal
+review_group_classifier,hash__Class Name__59,0.26573213934898376,Class Name category signal
+review_group_classifier,hash__Class Name__53,0.265514999628067,Class Name category signal
+review_group_classifier,hash__Class Name__88,0.2651561498641968,Class Name category signal
+review_group_classifier,hash__Class Name__72,0.2651004493236542,Class Name category signal
+review_group_classifier,FLM,0.2649969160556793,FLM
+review_group_classifier,hash__Line Name__75,0.26481807231903076,Line Name category signal
+review_group_classifier,hash__Line Name__76,0.26480838656425476,Line Name category signal
+review_group_classifier,hash__Site__92,0.2647186517715454,Site category signal
+review_group_classifier,hash__Site__94,0.2643566131591797,Site category signal
+review_group_classifier,Alloc. Rec.,0.2642975449562073,Alloc. Rec.
+review_group_classifier,hash__Line Name__90,0.2640310525894165,Line Name category signal
+review_group_classifier,hash__Site__15,0.26395919919013977,Site category signal
+review_group_classifier,hash__Class Name__55,0.26376911997795105,Class Name category signal
+review_group_classifier,hash__Class Name__21,0.2637593448162079,Class Name category signal
+review_group_classifier,hash__Line Name__86,0.26373666524887085,Line Name category signal
+review_group_classifier,hash__Line Name__8,0.26360079646110535,Line Name category signal
+review_group_classifier,rank_score,0.2634718418121338,rank_score
+review_group_classifier,hash__Site__80,0.2634301781654358,Site category signal
+review_group_classifier,hash__Line Name__39,0.26339974999427795,Line Name category signal
+review_group_classifier,hash__Line Name__3,0.26338425278663635,Line Name category signal
+review_group_classifier,hash__Class Name__57,0.2630988657474518,Class Name category signal
+review_group_classifier,hash__Line Name__81,0.2630223035812378,Line Name category signal
+review_group_classifier,hash__Class Name__80,0.26297727227211,Class Name category signal
+review_group_classifier,hash__Class Name__66,0.26287874579429626,Class Name category signal
+review_group_classifier,hash__Class Name__94,0.26281192898750305,Class Name category signal
+review_group_classifier,zero_supply,0.26255157589912415,zero_supply
+review_group_classifier,hash__Line Name__114,0.262550413608551,Line Name category signal
+review_group_classifier,hash__Line Name__56,0.26254913210868835,Line Name category signal
+review_group_classifier,hash__Flag__1,0.2625308930873871,Flag category signal
+review_group_classifier,proj_gap,0.26245832443237305,proj_gap
+review_group_classifier,hash__Line Name__19,0.262434184551239,Line Name category signal
+review_group_classifier,hash__Line Name__37,0.2623918652534485,Line Name category signal
+review_group_classifier,hash__Site__46,0.2622300386428833,Site category signal
+review_group_classifier,hash__Line Name__100,0.26222407817840576,Line Name category signal
+review_group_classifier,hash__Site__13,0.2621004581451416,Site category signal
+review_group_classifier,hash__Line Name__99,0.2620996832847595,Line Name category signal
+review_group_classifier,hash__Class Name__70,0.26208341121673584,Class Name category signal
+review_group_classifier,hash__Line Name__67,0.26205480098724365,Line Name category signal
+review_group_classifier,hash__Flag__4,0.261827677488327,Flag category signal
+review_group_classifier,D60,0.2617731988430023,D60
+review_group_classifier,hash__Site__73,0.26147425174713135,Site category signal
+review_group_classifier,avg_demand,0.2614295482635498,avg_demand
+review_group_classifier,hash__Line Name__55,0.2612445652484894,Line Name category signal
+review_group_classifier,hash__Line Name__34,0.26108571887016296,Line Name category signal
+review_group_classifier,hash__Line Name__6,0.2610223889350891,Line Name category signal
+review_group_classifier,hash__Class Name__1,0.26097002625465393,Class Name category signal
+review_group_classifier,hash__Site__45,0.26073214411735535,Site category signal
+review_group_classifier,hash__Class Name__11,0.26067331433296204,Class Name category signal
+review_group_classifier,hash__Site__51,0.2605985701084137,Site category signal
+review_group_classifier,hash__Class Name__86,0.260593444108963,Class Name category signal
+review_group_classifier,D30,0.2605266869068146,D30
+review_group_classifier,hash__Class Name__14,0.26051065325737,Class Name category signal
+review_group_classifier,hash__Site__32,0.26047927141189575,Site category signal
+review_group_classifier,hash__Site__37,0.26047271490097046,Site category signal
+review_group_classifier,hash__Site__61,0.26043862104415894,Site category signal
+review_group_classifier,hash__Line Name__65,0.26040759682655334,Line Name category signal
+review_group_classifier,hash__Site__41,0.2603808641433716,Site category signal
+review_group_classifier,hash__Line Name__18,0.26034867763519287,Line Name category signal
+review_group_classifier,hash__Site__56,0.2603382468223572,Site category signal
+review_group_classifier,hash__Site__81,0.26020166277885437,Site category signal
+review_group_classifier,hash__Class Name__6,0.26010069251060486,Class Name category signal
+review_group_classifier,hash__Site__33,0.25994816422462463,Site category signal
+review_group_classifier,hash__Class Name__65,0.25982969999313354,Class Name category signal
+review_group_classifier,hash__Class Name__38,0.25978273153305054,Class Name category signal
+review_group_classifier,hash__Site__44,0.2597598433494568,Site category signal
+review_group_classifier,hash__Class Name__23,0.2596573531627655,Class Name category signal
+review_group_classifier,hash__Line Name__20,0.2596537172794342,Line Name category signal
+review_group_classifier,hash__Class Name__12,0.25958532094955444,Class Name category signal
+review_group_classifier,weak_demand,0.2595788538455963,weak_demand
+review_group_classifier,hash__Site__91,0.25957366824150085,Site category signal
+review_group_classifier,supply_to_d60,0.2593967318534851,supply_to_d60
+review_group_classifier,hash__Dc Avail Bucket__7,0.2593258023262024,Dc Avail Bucket category signal
+review_group_classifier,hash__Flag__0,0.2593071758747101,Flag category signal
+review_group_classifier,hash__Site__1,0.2592356503009796,Site category signal
+review_group_classifier,hash__Line Name__53,0.2590813934803009,Line Name category signal
+review_group_classifier,hash__Class Name__82,0.25903627276420593,Class Name category signal
+review_group_classifier,hash__Site__28,0.2589999735355377,Site category signal
+review_group_classifier,hash__Site__63,0.25882187485694885,Site category signal
+review_group_classifier,hash__Site__66,0.25877389311790466,Site category signal
+review_group_classifier,L30,0.2587590515613556,L30
+review_group_classifier,hash__Class Name__4,0.2585673928260803,Class Name category signal
+review_group_classifier,hash__Line Name__107,0.2585285007953644,Line Name category signal
+review_group_classifier,hash__Class Name__7,0.2585030198097229,Class Name category signal
+review_group_classifier,hash__Rank__2,0.2584889531135559,Rank category signal
+review_group_classifier,hash__Site__79,0.25835999846458435,Site category signal
+review_group_classifier,hash__Site__62,0.25834569334983826,Site category signal
+review_group_classifier,hash__Line Name__59,0.25832033157348633,Line Name category signal
+review_group_classifier,hash__Line Name__40,0.258187472820282,Line Name category signal
+review_group_classifier,ttm_monthly,0.25815680623054504,ttm_monthly
+review_group_classifier,hash__Line Name__57,0.25815245509147644,Line Name category signal
+review_group_classifier,hash__Site__38,0.25813376903533936,Site category signal
+review_group_classifier,hash__Class Name__47,0.2580508589744568,Class Name category signal
+review_group_classifier,hash__Class Name__17,0.2579589784145355,Class Name category signal
+review_group_classifier,hash__Line Name__112,0.2579071521759033,Line Name category signal
+review_group_classifier,hash__Line Name__111,0.25789371132850647,Line Name category signal
+review_group_classifier,hash__Line Name__77,0.2578640878200531,Line Name category signal
+review_group_classifier,hash__Line Name__121,0.25767603516578674,Line Name category signal
+review_group_classifier,hash__Class Name__22,0.2576132118701935,Class Name category signal
+review_group_classifier,hash__Class Name__26,0.25755083560943604,Class Name category signal
+review_group_classifier,hash__Flag__5,0.257293164730072,Flag category signal
+review_group_classifier,hash__Rank__7,0.25712552666664124,Rank category signal
+review_group_classifier,hash__Line Name__102,0.2570416331291199,Line Name category signal
+review_group_classifier,hash__Line Name__92,0.2568683922290802,Line Name category signal
+review_group_classifier,hash__Line Name__26,0.2567830979824066,Line Name category signal
+review_group_classifier,hash__Site__27,0.25666573643684387,Site category signal
+review_group_classifier,hash__Class Name__63,0.25665977597236633,Class Name category signal
+review_group_classifier,hash__Class Name__35,0.25663629174232483,Class Name category signal
+review_group_classifier,hash__Site__30,0.2566260099411011,Site category signal
+review_group_classifier,hash__Line Name__51,0.25656858086586,Line Name category signal
+review_group_classifier,hash__Line Name__113,0.2562842071056366,Line Name category signal
+review_group_classifier,hash__Class Name__34,0.2562045454978943,Class Name category signal
+review_group_classifier,hash__Class Name__13,0.2561095356941223,Class Name category signal
+review_group_classifier,hash__Line Name__21,0.2560638189315796,Line Name category signal
+review_group_classifier,hash__Dc Avail Bucket__4,0.2560361623764038,Dc Avail Bucket category signal
+review_group_classifier,hash__Line Name__30,0.256034255027771,Line Name category signal
+review_group_classifier,hash__Line Name__69,0.2560169994831085,Line Name category signal
+review_group_classifier,hash__Site__65,0.25600001215934753,Site category signal
+review_group_classifier,hash__Site__68,0.25597095489501953,Site category signal
+review_group_classifier,hash__Dc Avail Bucket__5,0.2559257745742798,Dc Avail Bucket category signal
+review_group_classifier,hash__Line Name__85,0.255923330783844,Line Name category signal
+review_group_classifier,Proj. Demand,0.255665123462677,Proj. Demand
+review_group_classifier,hash__Class Name__78,0.2555834650993347,Class Name category signal
+review_group_classifier,max_demand,0.255461186170578,max_demand
+review_group_classifier,hash__Rank__1,0.25539493560791016,Rank category signal
+review_group_classifier,hash__Site__14,0.25525206327438354,Site category signal
+review_group_classifier,hash__Line Name__50,0.25523942708969116,Line Name category signal
+review_group_classifier,hash__Line Name__45,0.255126416683197,Line Name category signal
+review_group_classifier,hash__Dc Avail Bucket__0,0.255052387714386,Dc Avail Bucket category signal
+review_group_classifier,hash__Class Name__18,0.2549816370010376,Class Name category signal
+review_group_classifier,hash__Line Name__96,0.25491857528686523,Line Name category signal
+review_group_classifier,has_dc_avail,0.2548406422138214,has_dc_avail
+review_group_classifier,hash__Site__78,0.25480788946151733,Site category signal
+review_group_classifier,hash__Line Name__13,0.2546740472316742,Line Name category signal
+review_group_classifier,TTM,0.25464892387390137,TTM
+review_group_classifier,hash__Site__86,0.25461071729660034,Site category signal
+review_group_classifier,hash__Class Name__87,0.25460195541381836,Class Name category signal
+review_group_classifier,hash__Class Name__89,0.2544155716896057,Class Name category signal
+review_group_classifier,hash__Class Name__54,0.2543952465057373,Class Name category signal
+review_group_classifier,hash__Line Name__32,0.25429221987724304,Line Name category signal
+review_group_classifier,hash__Site__76,0.25417470932006836,Site category signal
+review_group_classifier,hash__Site__12,0.25416868925094604,Site category signal
+review_group_classifier,hash__Line Name__48,0.2540700435638428,Line Name category signal
+review_group_classifier,hash__Line Name__41,0.2539021968841553,Line Name category signal
+review_group_classifier,hash__Site__87,0.25389572978019714,Site category signal
+review_group_classifier,hash__Line Name__82,0.2538941502571106,Line Name category signal
+review_group_classifier,hash__Site__6,0.25386080145835876,Site category signal
+review_group_classifier,LW,0.25379854440689087,LW
+review_group_classifier,hash__Class Name__67,0.2537570893764496,Class Name category signal
+review_group_classifier,hash__Class Name__33,0.2537265121936798,Class Name category signal
+review_group_classifier,rec_minus_pressure,0.25361618399620056,rec_minus_pressure
+review_group_classifier,hash__Line Name__109,0.2535982131958008,Line Name category signal
+review_group_classifier,hash__Line Name__84,0.2535916864871979,Line Name category signal
+review_group_classifier,hash__Class Name__68,0.25338301062583923,Class Name category signal
+review_group_classifier,hash__Line Name__27,0.25332096219062805,Line Name category signal
+review_group_classifier,hash__Site__35,0.2532358169555664,Site category signal
+review_group_classifier,hash__Site__43,0.25322937965393066,Site category signal
+review_group_classifier,hash__Class Name__27,0.2531643509864807,Class Name category signal
+review_group_classifier,hash__Site__20,0.2528594434261322,Site category signal
+review_group_classifier,lw_month_to_l30,0.2528526484966278,lw_month_to_l30
+review_group_classifier,hash__Line Name__106,0.2528396248817444,Line Name category signal
+review_group_classifier,hash__Line Name__2,0.2528354525566101,Line Name category signal
+review_group_classifier,hash__Rank__3,0.25273439288139343,Rank category signal
+review_group_classifier,rec_flms,0.25267380475997925,rec_flms
+review_group_classifier,hash__Class Name__28,0.2526076138019562,Class Name category signal
+review_group_classifier,hash__Class Name__39,0.2524511218070984,Class Name category signal
+review_group_classifier,hash__Rank__4,0.2522940933704376,Rank category signal
+review_group_classifier,hash__Class Name__29,0.25227248668670654,Class Name category signal
+review_group_classifier,hash__Line Name__122,0.25222906470298767,Line Name category signal
+review_group_classifier,hash__Class Name__69,0.2522016167640686,Class Name category signal
+review_group_classifier,hash__Line Name__70,0.25219401717185974,Line Name category signal
+review_group_classifier,hash__Line Name__73,0.252181738615036,Line Name category signal
+review_group_classifier,hash__Site__55,0.25189247727394104,Site category signal
+review_group_classifier,hash__Class Name__31,0.2518652379512787,Class Name category signal
+review_group_classifier,hash__Site__71,0.25173497200012207,Site category signal
+review_group_classifier,hash__Site__93,0.2517056167125702,Site category signal
+review_group_classifier,hash__Line Name__91,0.25170350074768066,Line Name category signal
+review_group_classifier,hash__Site__69,0.2516656517982483,Site category signal
+review_group_classifier,hash__Class Name__83,0.25159597396850586,Class Name category signal
+review_group_classifier,hash__Class Name__9,0.2515353858470917,Class Name category signal
+review_group_classifier,hash__Line Name__17,0.25140494108200073,Line Name category signal
+review_group_classifier,hash__Site__72,0.25136590003967285,Site category signal
+review_group_classifier,hash__Class Name__45,0.25123682618141174,Class Name category signal
+review_group_classifier,hash__Class Name__90,0.25101909041404724,Class Name category signal
+review_group_classifier,hash__Class Name__62,0.25096485018730164,Class Name category signal
+review_group_classifier,hash__Line Name__104,0.25094518065452576,Line Name category signal
+review_group_classifier,hash__Class Name__36,0.2508194148540497,Class Name category signal
+review_group_classifier,hash__Class Name__71,0.25077664852142334,Class Name category signal
+review_group_classifier,hash__Class Name__5,0.25073033571243286,Class Name category signal
+review_group_classifier,hash__Class Name__95,0.25072720646858215,Class Name category signal
+review_group_classifier,hash__Flag__2,0.25066736340522766,Flag category signal
+review_group_classifier,hash__Line Name__80,0.25065675377845764,Line Name category signal
+review_group_classifier,hash__Line Name__74,0.2505548894405365,Line Name category signal
+review_group_classifier,hash__Flag__6,0.25046074390411377,Flag category signal
+review_group_classifier,hash__Line Name__93,0.25021010637283325,Line Name category signal
+review_group_classifier,hash__Site__53,0.25015467405319214,Site category signal
+review_group_classifier,hash__Line Name__44,0.25015121698379517,Line Name category signal
+review_group_classifier,hash__Class Name__56,0.2500170171260834,Class Name category signal
+review_group_classifier,hash__Class Name__48,0.24997057020664215,Class Name category signal
+review_group_classifier,hash__Class Name__46,0.24995753169059753,Class Name category signal
+review_group_classifier,MIL,0.24988092482089996,MIL
+review_group_classifier,hash__Line Name__110,0.24983598291873932,Line Name category signal
+review_group_classifier,hash__Site__84,0.24970658123493195,Site category signal
+review_group_classifier,hash__Class Name__50,0.24964539706707,Class Name category signal
+review_group_classifier,hash__Line Name__68,0.24923700094223022,Line Name category signal
+review_group_classifier,hash__Class Name__30,0.2490730732679367,Class Name category signal
+review_group_classifier,hash__Class Name__8,0.24898922443389893,Class Name category signal
+review_group_classifier,hash__Line Name__118,0.24870477616786957,Line Name category signal
+review_group_classifier,hash__Line Name__66,0.24863174557685852,Line Name category signal
+review_group_classifier,hash__Line Name__119,0.24851159751415253,Line Name category signal
+review_group_classifier,hash__Site__40,0.2484995573759079,Site category signal
+review_group_classifier,hash__Dc Avail Bucket__6,0.2484888732433319,Dc Avail Bucket category signal
+review_group_classifier,hash__Class Name__19,0.24838301539421082,Class Name category signal
+review_group_classifier,hash__Site__82,0.24822884798049927,Site category signal
+review_group_classifier,hash__Class Name__49,0.2482212632894516,Class Name category signal
+review_group_classifier,hash__Line Name__10,0.24818818271160126,Line Name category signal
+review_group_classifier,d30_gap,0.24767041206359863,d30_gap
+review_group_classifier,hash__Site__42,0.24744828045368195,Site category signal
+review_group_classifier,hash__Site__59,0.24736377596855164,Site category signal
+review_group_classifier,has_alloc_rec,0.24724118411540985,has_alloc_rec
+review_group_classifier,hash__Line Name__78,0.24711568653583527,Line Name category signal
+review_group_classifier,hash__Class Name__52,0.2470923811197281,Class Name category signal
+review_group_classifier,hash__Line Name__115,0.2469322234392166,Line Name category signal
+review_group_classifier,rec_cost_value,0.2467375248670578,rec_cost_value
+review_group_classifier,demand_pressure,0.24672618508338928,demand_pressure
+review_group_classifier,hash__Class Name__93,0.24664314091205597,Class Name category signal
+review_group_classifier,hash__Line Name__49,0.24512654542922974,Line Name category signal
+review_group_classifier,hash__Flag__3,0.24503949284553528,Flag category signal
+review_group_classifier,hash__Class Name__24,0.24500291049480438,Class Name category signal
+review_group_classifier,hash__Site__47,0.24488374590873718,Site category signal
+review_group_classifier,hash__Class Name__74,0.2448314130306244,Class Name category signal
+review_group_classifier,hash__Line Name__43,0.24444758892059326,Line Name category signal
+review_group_classifier,hash__Class Name__16,0.2441270798444748,Class Name category signal
+review_group_classifier,hash__Class Name__61,0.24401436746120453,Class Name category signal
+review_group_classifier,hash__Class Name__3,0.2438039481639862,Class Name category signal
+review_group_classifier,hash__Class Name__58,0.24268026649951935,Class Name category signal
+review_group_classifier,hash__Site__64,0.24211569130420685,Site category signal
+review_group_classifier,hash__Line Name__31,0.2414645105600357,Line Name category signal
+review_group_classifier,hash__Class Name__64,0.24125555157661438,Class Name category signal
+review_group_classifier,hash__Class Name__79,0.24115920066833496,Class Name category signal
+review_group_classifier,hash__Rank__5,0.24115344882011414,Rank category signal
+review_group_classifier,hash__Line Name__125,0.2408011108636856,Line Name category signal
+review_group_classifier,hash__Line Name__87,0.24067044258117676,Line Name category signal
+review_group_classifier,hash__Site__22,0.2404308021068573,Site category signal
+review_group_classifier,hash__Class Name__81,0.23993220925331116,Class Name category signal
+review_group_classifier,hash__Line Name__11,0.23935142159461975,Line Name category signal
+review_group_classifier,d30_to_d60,0.23604810237884521,d30_to_d60
+review_group_classifier,hash__Line Name__16,0.2325693666934967,Line Name category signal

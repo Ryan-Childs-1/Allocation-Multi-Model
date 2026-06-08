@@ -1,0 +1,216 @@
+model_component,feature_group,importance_pct
+OVERALL_AVERAGE,Line Name category signal,33.72657382488251
+OVERALL_AVERAGE,Site category signal,25.386420730501413
+OVERALL_AVERAGE,Class Name category signal,24.97191648557782
+OVERALL_AVERAGE,Dc Avail Bucket category signal,2.108797188848257
+OVERALL_AVERAGE,Rank category signal,2.0991349555552006
+OVERALL_AVERAGE,Flag category signal,2.0802912786602974
+OVERALL_AVERAGE,dc_flms,0.27417857199907303
+OVERALL_AVERAGE,supply_to_proj,0.27387944608926773
+OVERALL_AVERAGE,d60_gap,0.2731109708547592
+OVERALL_AVERAGE,dc_flms_capped,0.27106714993715286
+OVERALL_AVERAGE,zero_supply,0.2684459015727043
+OVERALL_AVERAGE,FLM,0.2681117281317711
+OVERALL_AVERAGE,supply_to_d60,0.26676980406045914
+OVERALL_AVERAGE,supply_to_d30,0.2664085924625397
+OVERALL_AVERAGE,MIL,0.2642511688172817
+OVERALL_AVERAGE,rec_flms,0.2635873481631279
+OVERALL_AVERAGE,Supply,0.26337698101997375
+OVERALL_AVERAGE,D30,0.26098982244729996
+OVERALL_AVERAGE,rank_score,0.2608325034379959
+OVERALL_AVERAGE,l30_to_d30,0.2603785768151283
+OVERALL_AVERAGE,has_dc_avail,0.26006295531988144
+OVERALL_AVERAGE,Dc Avail,0.25968635454773903
+OVERALL_AVERAGE,supply_cost_value,0.2596575766801834
+OVERALL_AVERAGE,avg_demand,0.2592928186058998
+OVERALL_AVERAGE,Alloc. Rec.,0.2591211795806885
+OVERALL_AVERAGE,mil_gap,0.25859343260526657
+OVERALL_AVERAGE,rec_minus_pressure,0.2584138847887516
+OVERALL_AVERAGE,weak_demand,0.258042111992836
+OVERALL_AVERAGE,Proj. Demand,0.257461816072464
+OVERALL_AVERAGE,LW,0.25720126926898956
+OVERALL_AVERAGE,Cost,0.2571536749601364
+OVERALL_AVERAGE,D60,0.2570086866617203
+OVERALL_AVERAGE,lw_month_to_l30,0.2562105134129524
+OVERALL_AVERAGE,L30,0.2551061138510704
+OVERALL_AVERAGE,ttm_monthly,0.2548491135239601
+OVERALL_AVERAGE,proj_gap,0.2547488436102867
+OVERALL_AVERAGE,max_demand,0.25443536415696144
+OVERALL_AVERAGE,rec_cost_value,0.25392163917422295
+OVERALL_AVERAGE,has_alloc_rec,0.2531747817993164
+OVERALL_AVERAGE,demand_pressure,0.25294382870197296
+OVERALL_AVERAGE,d30_gap,0.2524450346827507
+OVERALL_AVERAGE,TTM,0.25234536454081535
+OVERALL_AVERAGE,d30_to_d60,0.24960505217313766
+allocate_flm_regressor,Line Name category signal,33.653745129704475
+allocate_flm_regressor,Class Name category signal,25.20814399421215
+allocate_flm_regressor,Site category signal,25.13767009973526
+allocate_flm_regressor,Dc Avail Bucket category signal,2.12508961558342
+allocate_flm_regressor,Flag category signal,2.1216085255146027
+allocate_flm_regressor,Rank category signal,2.103269726037979
+allocate_flm_regressor,MIL,0.2782667875289917
+allocate_flm_regressor,zero_supply,0.27490487694740295
+allocate_flm_regressor,dc_flms_capped,0.27170616388320923
+allocate_flm_regressor,supply_to_d60,0.2711177468299866
+allocate_flm_regressor,rec_flms,0.26867958903312683
+allocate_flm_regressor,FLM,0.26771315932273865
+allocate_flm_regressor,has_dc_avail,0.2671329975128174
+allocate_flm_regressor,rank_score,0.2663210332393646
+allocate_flm_regressor,rec_minus_pressure,0.2661856710910797
+allocate_flm_regressor,LW,0.26356881856918335
+allocate_flm_regressor,dc_flms,0.2633058428764343
+allocate_flm_regressor,D30,0.26326799392700195
+allocate_flm_regressor,Supply,0.26278841495513916
+allocate_flm_regressor,Proj. Demand,0.2623984217643738
+allocate_flm_regressor,lw_month_to_l30,0.2619558870792389
+allocate_flm_regressor,d60_gap,0.261820524930954
+allocate_flm_regressor,l30_to_d30,0.26172858476638794
+allocate_flm_regressor,demand_pressure,0.26099932193756104
+allocate_flm_regressor,d30_gap,0.26081568002700806
+allocate_flm_regressor,has_alloc_rec,0.2605099081993103
+allocate_flm_regressor,rec_cost_value,0.26021653413772583
+allocate_flm_regressor,weak_demand,0.26018625497817993
+allocate_flm_regressor,d30_to_d60,0.2591876983642578
+allocate_flm_regressor,avg_demand,0.2586629092693329
+allocate_flm_regressor,supply_to_d30,0.2579480707645416
+allocate_flm_regressor,supply_to_proj,0.2576255798339844
+allocate_flm_regressor,D60,0.25714755058288574
+allocate_flm_regressor,Alloc. Rec.,0.25702646374702454
+allocate_flm_regressor,max_demand,0.2566799521446228
+allocate_flm_regressor,ttm_monthly,0.2552551031112671
+allocate_flm_regressor,mil_gap,0.2550176978111267
+allocate_flm_regressor,L30,0.2542184293270111
+allocate_flm_regressor,TTM,0.25286591053009033
+allocate_flm_regressor,supply_cost_value,0.24990606307983398
+allocate_flm_regressor,proj_gap,0.24953725934028625
+allocate_flm_regressor,Dc Avail,0.24926115572452545
+allocate_flm_regressor,Cost,0.24454805254936218
+allocate_group_classifier,Line Name category signal,33.895490527153015
+allocate_group_classifier,Site category signal,25.749135613441467
+allocate_group_classifier,Class Name category signal,24.662611350417137
+allocate_group_classifier,Rank category signal,2.1143303960561752
+allocate_group_classifier,Dc Avail Bucket category signal,2.0478458255529404
+allocate_group_classifier,Flag category signal,2.031563311815262
+allocate_group_classifier,d60_gap,0.28221675753593445
+allocate_group_classifier,supply_to_proj,0.2797648310661316
+allocate_group_classifier,FLM,0.27541661262512207
+allocate_group_classifier,rec_flms,0.27301013469696045
+allocate_group_classifier,supply_to_d30,0.2709357738494873
+allocate_group_classifier,supply_cost_value,0.2702653706073761
+allocate_group_classifier,Cost,0.2694859206676483
+allocate_group_classifier,supply_to_d60,0.2674897015094757
+allocate_group_classifier,dc_flms,0.2657759487628937
+allocate_group_classifier,zero_supply,0.26171430945396423
+allocate_group_classifier,Alloc. Rec.,0.26020875573158264
+allocate_group_classifier,Dc Avail,0.2601453959941864
+allocate_group_classifier,proj_gap,0.25956231355667114
+allocate_group_classifier,Supply,0.25883668661117554
+allocate_group_classifier,avg_demand,0.25846654176712036
+allocate_group_classifier,mil_gap,0.2567846179008484
+allocate_group_classifier,D30,0.2563440799713135
+allocate_group_classifier,weak_demand,0.2531609833240509
+allocate_group_classifier,dc_flms_capped,0.25297048687934875
+allocate_group_classifier,L30,0.25209522247314453
+allocate_group_classifier,has_dc_avail,0.2520083487033844
+allocate_group_classifier,rec_cost_value,0.2517740726470947
+allocate_group_classifier,D60,0.2513149380683899
+allocate_group_classifier,l30_to_d30,0.25116679072380066
+allocate_group_classifier,ttm_monthly,0.2504357397556305
+allocate_group_classifier,max_demand,0.2499404102563858
+allocate_group_classifier,Proj. Demand,0.24965417385101318
+allocate_group_classifier,TTM,0.2494858354330063
+allocate_group_classifier,MIL,0.24939805269241333
+allocate_group_classifier,has_alloc_rec,0.2475210279226303
+allocate_group_classifier,lw_month_to_l30,0.24750179052352905
+allocate_group_classifier,rec_minus_pressure,0.24689804017543793
+allocate_group_classifier,rank_score,0.246496319770813
+allocate_group_classifier,LW,0.24507713317871094
+allocate_group_classifier,d30_to_d60,0.24384337663650513
+allocate_group_classifier,demand_pressure,0.2428530752658844
+allocate_group_classifier,d30_gap,0.2390058934688568
+review_flm_regressor,Line Name category signal,33.57257454097271
+review_flm_regressor,Site category signal,25.279640331864357
+review_flm_regressor,Class Name category signal,25.150872841477394
+review_flm_regressor,Dc Avail Bucket category signal,2.1450670063495636
+review_flm_regressor,Flag category signal,2.1121029555797577
+review_flm_regressor,Rank category signal,2.092493921518326
+review_flm_regressor,MIL,0.2794589102268219
+review_flm_regressor,zero_supply,0.2746128439903259
+review_flm_regressor,dc_flms_capped,0.2745762765407562
+review_flm_regressor,supply_to_d60,0.26907503604888916
+review_flm_regressor,dc_flms,0.2673720121383667
+review_flm_regressor,rank_score,0.26704081892967224
+review_flm_regressor,rec_minus_pressure,0.2669556438922882
+review_flm_regressor,LW,0.2663605809211731
+review_flm_regressor,has_dc_avail,0.26626983284950256
+review_flm_regressor,Supply,0.26441964507102966
+review_flm_regressor,FLM,0.2643202245235443
+review_flm_regressor,D30,0.2638205289840698
+review_flm_regressor,d60_gap,0.26337432861328125
+review_flm_regressor,lw_month_to_l30,0.26253172755241394
+review_flm_regressor,d30_gap,0.2622881531715393
+review_flm_regressor,Proj. Demand,0.262129545211792
+review_flm_regressor,l30_to_d30,0.2620295286178589
+review_flm_regressor,demand_pressure,0.26119673252105713
+review_flm_regressor,rec_flms,0.25998586416244507
+review_flm_regressor,d30_to_d60,0.2593410313129425
+review_flm_regressor,weak_demand,0.25924235582351685
+review_flm_regressor,avg_demand,0.2586122751235962
+review_flm_regressor,supply_to_d30,0.25799790024757385
+review_flm_regressor,D60,0.25779905915260315
+review_flm_regressor,supply_to_proj,0.25760456919670105
+review_flm_regressor,has_alloc_rec,0.25742700695991516
+review_flm_regressor,rec_cost_value,0.2569584250450134
+review_flm_regressor,mil_gap,0.25639763474464417
+review_flm_regressor,max_demand,0.25565990805625916
+review_flm_regressor,ttm_monthly,0.2555488049983978
+review_flm_regressor,L30,0.2553517520427704
+review_flm_regressor,Alloc. Rec.,0.25495195388793945
+review_flm_regressor,TTM,0.2523807883262634
+review_flm_regressor,Dc Avail,0.2511805295944214
+review_flm_regressor,supply_cost_value,0.250162810087204
+review_flm_regressor,proj_gap,0.2474374771118164
+review_flm_regressor,Cost,0.24538254737854004
+review_group_classifier,Line Name category signal,33.78448510169983
+review_group_classifier,Site category signal,25.37923687696457
+review_group_classifier,Class Name category signal,24.866037756204605
+review_group_classifier,Dc Avail Bucket category signal,2.1171863079071045
+review_group_classifier,Rank category signal,2.086445778608322
+review_group_classifier,Flag category signal,2.0558903217315674
+review_group_classifier,supply_to_proj,0.3005228042602539
+review_group_classifier,dc_flms,0.3002604842185974
+review_group_classifier,d60_gap,0.2850322723388672
+review_group_classifier,dc_flms_capped,0.28501567244529724
+review_group_classifier,supply_to_d30,0.2787526249885559
+review_group_classifier,Dc Avail,0.2781583368778229
+review_group_classifier,Cost,0.2691981792449951
+review_group_classifier,supply_cost_value,0.2682960629463196
+review_group_classifier,Supply,0.26746317744255066
+review_group_classifier,l30_to_d30,0.2665894031524658
+review_group_classifier,mil_gap,0.266173779964447
+review_group_classifier,FLM,0.2649969160556793
+review_group_classifier,Alloc. Rec.,0.2642975449562073
+review_group_classifier,rank_score,0.2634718418121338
+review_group_classifier,zero_supply,0.26255157589912415
+review_group_classifier,proj_gap,0.26245832443237305
+review_group_classifier,D60,0.2617731988430023
+review_group_classifier,avg_demand,0.2614295482635498
+review_group_classifier,D30,0.2605266869068146
+review_group_classifier,weak_demand,0.2595788538455963
+review_group_classifier,supply_to_d60,0.2593967318534851
+review_group_classifier,L30,0.2587590515613556
+review_group_classifier,ttm_monthly,0.25815680623054504
+review_group_classifier,Proj. Demand,0.255665123462677
+review_group_classifier,max_demand,0.255461186170578
+review_group_classifier,has_dc_avail,0.2548406422138214
+review_group_classifier,TTM,0.25464892387390137
+review_group_classifier,LW,0.25379854440689087
+review_group_classifier,rec_minus_pressure,0.25361618399620056
+review_group_classifier,lw_month_to_l30,0.2528526484966278
+review_group_classifier,rec_flms,0.25267380475997925
+review_group_classifier,MIL,0.24988092482089996
+review_group_classifier,d30_gap,0.24767041206359863
+review_group_classifier,has_alloc_rec,0.24724118411540985
+review_group_classifier,rec_cost_value,0.2467375248670578
+review_group_classifier,demand_pressure,0.24672618508338928
+review_group_classifier,d30_to_d60,0.23604810237884521
